@@ -11,7 +11,7 @@ import {useEffect, useState} from "react";
 export default function Home() {
     const router = useRouter();
     const {id}:any = router.query;
-    console.log("id => ",id)
+    // console.log("id => ",id)
     const [service, setService] = useState('');
     useEffect(()=>{
         if(id === "cirugia-plastica-facial"){
