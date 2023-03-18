@@ -1,0 +1,28 @@
+{
+  "testimonial": {
+    "title": "Your results mean",
+    "titleSpan": "everything to us",
+    "item": [
+      {
+        "name": "Yaisa",
+        "country": "Miami, Florida",
+        "content": "0 years ago I had the Gastric Sleeve process with another Dr. and now the Medtrip Dr performed a Bypass to lose weight again. I feel very well, I am happy in many ways and I am waiting for results."
+      },
+      {
+        "name": "Paola",
+        "country": "Miami, Florida",
+        "content": "I had the Gastric Bypass. I am operated with Medtip Dr and I feel excellent, I have not suffered nausea or vomiting. Thank God everything went well, super recommended and I am happy with my changes."
+      },
+      {
+        "name": "Ricardo Almeida Torres",
+        "country": "Francia",
+        "content": "I came from France to have surgery for the problem I have, which is overweight, I am morbidly obese and I have made the decision to have bariatric surgery. I arrived in Bogota to the Los Nogales clinic operated by Dr. Daniel Gomez. Everything went very well, the wounds are very clean and there were no complications. Thanks to Dr and his team for their professionalism."
+      },
+      {
+        "name": "Karen Caraballo",
+        "country": "Puerto Rico",
+        "content": "I feel excellent. I definitely recommend Dr. Gomez and his medical team because at all times during the process before and after the surgery they made me feel confident and safe, they definitely have the necessary experience and knowledge."
+      }
+    ]
+  }
+}

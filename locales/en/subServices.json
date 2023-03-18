@@ -1,0 +1,630 @@
+{
+  "after": "After",
+  "before": "Before",
+  "rinoplastia": {
+    "banner": {
+      "image": "/images/servicios/plastica-facial/rinoplastia.png",
+      "alt": "Rhinoplasty",
+      "title": "Improve the symmetry of your face, ",
+      "titleSpan": "feel self-confident.",
+      "content": "Rhinoplasty is a cosmetic surgery to perfect the shape and function of the nose, improving facial harmony and restoring the confidence and security you long for."
+    },
+    "before-and-after": {
+      "title": "This is what your ",
+        "titleSpan": "surgery will look like with us"
+    },
+    "step-by-step": {
+      "title": "Learn how the process will be ",
+      "titleSpan": "step by step ",
+      "process1": {
+        "content": "Through our digital channels we will provide you with all the information you need to make the best decision."
+      },
+      "process2": {
+        "content": "In the medical evaluation with our specialist, we will know if you are fit for surgery and the corresponding tests will be determined."
+      },
+      "process3": {
+        "content": "We define the procedure that is right for you and take data to schedule the surgery."
+      },
+      "process4": {
+        "content": "We fulfill the most desired appointment where our specialist will make your work of art."
+      },
+      "process5": {
+        "content": "The happiest days of your life will come, seeing little by little a result that will exceed your expectations."
+      }
+    }
+  },
+
+  "cirugia-de-parpado": {
+    "banner": {
+      "image": "/images/servicios/plastica-facial/cirugia-parpados.png",
+      "alt": "Eyelid Surgery",
+      "title": "At Medtrip we help you achieve a ",
+      "titleSpan": "more rejuvenated appearance in your eyes.",
+      "content": "Eyelid surgery is a cosmetic procedure that helps rejuvenate the appearance of the eyes by correcting excess skin and fat in the eyelids."
+    },
+    "before-and-after": {
+      "title": "This is what your ",
+      "titleSpan": "surgery will look like with us"
+    },
+    "step-by-step": {
+      "title": "Here are some of the benefits of ",
+      "titleSpan": "eyelid surgery",
+      "process1": {
+        "content": "Improves appearance, helps eliminate the tired, aged look that droopy eyelids can have."
+      },
+      "process2": {
+        "content": "Increases confidence, many people may feel more confident and satisfied with their physical appearance."
+      },
+      "process3": {
+        "content": "Eyelid surgery can help improve vision by removing excess fat in the eyelid area."
+      },
+      "process4": {
+        "content": "The results are long lasting and can be maintained for many years."
+      },
+      "process5": {
+        "content": "It is a safe and well-established procedure that has been used for many years."
+      }
+    }
+  },
+
+  "bichectomia": {
+    "banner": {
+      "image": "/images/servicios/plastica-facial/bichectomia.png",
+      "alt": "Bichectomy",
+      "title": "Highlight your cheekbones and discover a ",
+      "titleSpan": "new version of yourself.",
+      "content": "Bichectomy helps to refine and define facial features, creating a more sculpted look in the cheekbone and jawline area that will make you look radiant."
+    },
+    "before-and-after": {
+      "title": "This is what your ",
+      "titleSpan": "surgery will look like with us"
+    },
+    "step-by-step": {
+      "title": "Reasons why you should undergo ",
+      "titleSpan": "bichectomy",
+      "process1": {
+        "content": "Improve facial definition and beautify your facial features."
+      },
+      "process2": {
+        "content": "It can help reduce volume in the cheek area."
+      },
+      "process3": {
+        "content": "Many people experience an improvement in their self-esteem and self-confidence."
+      },
+      "process4": {
+        "content": "The results of this surgery are maintained over time."
+      },
+      "process5": {
+        "content": "It is a safe surgical procedure performed on an outpatient basis under local anesthesia."
+      }
+    }
+  },
+
+  "botox": {
+    "banner": {
+      "image": "/images/servicios/plastica-facial/botox.png",
+      "alt": "Botox",
+      "title": "Say goodbye to wrinkles and ",
+      "titleSpan": "welcome a more youthful skin.",
+      "content": "Botox helps to temporarily reduce muscle activity that causes expression lines and wrinkles."
+    },
+    "before-and-after": {
+      "title": "This is what your ",
+      "titleSpan": "surgery will look like with us"
+    },
+    "step-by-step": {
+      "title": "Some care you should take ",
+      "titleSpan": "after botox application",
+      "process1": {
+        "content": "Avoid rubbing or massaging the treated area."
+      },
+      "process2": {
+        "content": "Avoid strenuous exercise for the first 24 hours."
+      },
+      "process3": {
+        "content": "Do not consume alcohol as it may dilate blood vessels and increase the risk of bruising."
+      },
+      "process4": {
+        "content": "Avoid undergoing facial treatments so as not to affect the outcome of the treatment."
+      },
+      "process5": {
+        "content": "Do not apply make-up during the first 4 hours."
+      }
+    }
+  },
+
+  "lifting-facial": {
+    "banner": {
+      "image": "/images/servicios/plastica-facial/lifting-facial.png",
+      "alt": "Lifting Facial",
+      "title": "There is no age for a ",
+      "titleSpan": "beautiful and radiant face.",
+      "content": "With this procedure you will be able to improve your facial appearance, reducing the signs of aging and achieving a more youthful and rejuvenated appearance."
+    },
+    "before-and-after": {
+      "title": "This is what your ",
+      "titleSpan": "surgery will look like with us"
+    },
+    "step-by-step": {
+      "title": "Learn how the process will be ",
+      "titleSpan": "step by step ",
+      "process1": {
+        "content": "Through our digital channels we will provide you with all the information you need to make the best decision."
+      },
+      "process2": {
+        "content": "In the medical evaluation with our specialist, we will know if you are fit for surgery and the corresponding tests will be determined."
+      },
+      "process3": {
+        "content": "We define the procedure that is right for you and take data to schedule the surgery."
+      },
+      "process4": {
+        "content": "We fulfill the most desired appointment where our specialist will make your work of art."
+      },
+      "process5": {
+        "content": "The happiest days of your life will come, seeing little by little a result that will exceed your expectations."
+      }
+    }
+  },
+
+  "liposuccion-de-papada": {
+    "banner": {
+      "image": "/images/servicios/plastica-facial/liposuccion-papada.png",
+      "alt": "Liposuction of Double chin",
+      "title": "It's time to feel good about yourself from ",
+      "titleSpan": "every angle!",
+      "content": "Jowl liposuction can improve not only your appearance, but also your self-esteem and self-confidence. Take pride in taking control of your image and take the first step towards a more confident and happier you."
+    },
+    "before-and-after": {
+      "title": "This is what your ",
+      "titleSpan": "surgery will look like with us"
+    },
+    "step-by-step": {
+      "title": "Learn how the process will be ",
+      "titleSpan": "step by step ",
+      "process1": {
+        "content": "Through our digital channels we will provide you with all the information you need to make the best decision."
+      },
+      "process2": {
+        "content": "In the medical evaluation with our specialist, we will know if you are fit for surgery and the corresponding tests will be determined."
+      },
+      "process3": {
+        "content": "We define the procedure that is right for you and take data to schedule the surgery."
+      },
+      "process4": {
+        "content": "We fulfill the most desired appointment where our specialist will make your work of art."
+      },
+      "process5": {
+        "content": "The happiest days of your life will come, seeing little by little a result that will exceed your expectations."
+      }
+    }
+  },
+
+  "abdominoplastia": {
+    "banner": {
+      "image": "/images/servicios/plastica-corporal/marcación de abdomen.png",
+      "alt": "abdominoplastia",
+      "title": "Abdominoplasty: your best ally ",
+      "titleSpan": "for a flat and firm abdomen.",
+      "content": "It is a procedure performed to eliminate excess skin and fat in the abdominal area. Achieve your goals, improve your appearance and get excellent results."
+    },
+    "before-and-after": {
+      "title": "This is what your ",
+      "titleSpan": "surgery will look like with us"
+    },
+    "step-by-step": {
+      "title": "Learn about 5 benefits of the ",
+      "titleSpan": "surgical procedure",
+      "process1": {
+        "content": "Eliminates excess skin and fat in your abdomen."
+      },
+      "process2": {
+        "content": "Strengthens abdominal muscles."
+      },
+      "process3": {
+        "content": "Reduces the risk of infections and skin problems."
+      },
+      "process4": {
+        "content": "Increase your self-esteem and confidence to be yourself."
+      },
+      "process5": {
+        "content": "We take care of you, we offer you a type of recovery with specialized personnel."
+      }
+    }
+  },
+
+  "lipoescultura": {
+    "banner": {
+      "image": "/images/servicios/plastica-corporal/lipoescultura para mujer.png",
+      "alt": "lipoescultura",
+      "title": "We shape your ",
+      "titleSpan": "body and take care of your skin!",
+      "content": "At Medtrip we perform very effective procedures to remove unwanted fat in the areas of your choice. Ask for the solution to your weight loss needs."
+    },
+    "before-and-after": {
+      "title": "This is what your ",
+      "titleSpan": "surgery will look like with us"
+    },
+    "step-by-step": {
+      "title": "Medtrip, the ideal choice ",
+      "titleSpan": "for your transformation",
+      "process1": {
+        "content": "We take into account your needs and provide solutions."
+      },
+      "process2": {
+        "content": "We make you achieve your best goals."
+      },
+      "process3": {
+        "content": "Get your best version, we impact your life in a safe and reliable way."
+      },
+      "process4": {
+        "content": "We have highly qualified personnel for the care of your body."
+      },
+      "process5": {
+        "content": "We choose spaces full of comfort that will make your processes more pleasant and calm."
+      }
+    }
+  },
+
+  "lipotransferencia-glutea": {
+    "banner": {
+      "image": "/images/servicios/plastica-corporal/aumento de gluteos.png",
+      "alt": "lipotransferencia-glutea",
+      "title": "Transform your curves for a ",
+      "titleSpan": "naturally slim figure.",
+      "content": "With gluteal lipotransfer we extract fat from a localized area of your body and transplant it into the buttocks to increase their size and improve their shape."
+    },
+    "before-and-after": {
+      "title": "This is what your ",
+      "titleSpan": "surgery will look like with us"
+    },
+    "step-by-step": {
+      "title": "5 benefits for having a ",
+      "titleSpan": "Gluteal Lipotransfer",
+      "process1": {
+        "content": "Increase the size of your buttocks naturally, using your own body fat."
+      },
+      "process2": {
+        "content": "Improves the shape and symmetry of the buttocks, providing a more balanced and attractive appearance."
+      },
+      "process3": {
+        "content": "Eliminates unwanted fat in areas of the body."
+      },
+      "process4": {
+        "content": "Get natural, long-lasting and permanent results."
+      },
+      "process5": {
+        "content": "Resume normal activities within one to two weeks after the procedure."
+      }
+    }
+  },
+
+  "mamoplastia-de-aumento": {
+    "banner": {
+      "image": "/images/servicios/plastica-corporal/aumento de busto.png",
+      "alt": "mamoplastia-de-aumento",
+      "title": "Boost your confidence and ",
+      "titleSpan": "show off a radiant.",
+      "content": "In this surgery, a breast prosthesis is used to increase the volume of the breasts and achieve a more proportional and attractive appearance."
+    },
+    "before-and-after": {
+      "title": "This is what your ",
+      "titleSpan": "surgery will look like with us"
+    },
+    "step-by-step": {
+      "title": "Learn the step-by-step procedure to undergo the ",
+      "titleSpan": "surgical procedure",
+      "process1": {
+        "content": "Through our digital channels we will provide you with all the information you need to make the best decision."
+      },
+      "process2": {
+        "content": "We fulfill the most desired appointment where our specialist will make your work of art."
+      },
+      "process3": {
+        "content": "We define the procedure that is right for you and take data to schedule the surgery."
+      },
+      "process4": {
+        "content": "In the medical evaluation with our specialist, we will know if you are fit for surgery and the corresponding tests will be determined."
+      },
+      "process5": {
+        "content": "The happiest days of your life will come, seeing little by little a result that will exceed your expectations."
+      }
+    }
+  },
+
+  "mamoplastia-de-reducción": {
+    "banner": {
+      "image": "/images/servicios/plastica-corporal/reducción de busto.png",
+      "alt": "mamoplastia-de-reducción",
+      "title": "Get rid of unnecessary weight and improve your ",
+      "titleSpan": "quality of life.",
+      "content": "Reduction mammoplasty is a surgical procedure aimed at reducing the size and improving the shape of a woman's breasts."
+    },
+    "before-and-after": {
+      "title": "This is what your ",
+      "titleSpan": "surgery will look like with us"
+    },
+    "step-by-step": {
+      "title": "Benefits of undergoing ",
+      "titleSpan": "reduction mammoplasty",
+      "process1": {
+        "content": "Reduces breast size, relieves discomfort and physical problems associated with large breasts, such as back, neck and shoulder pain, and skin irritation under the breasts."
+      },
+      "process2": {
+        "content": "Improves the shape and symmetry of the breasts, providing a more balanced and attractive appearance."
+      },
+      "process3": {
+        "content": "Improved quality of life."
+      },
+      "process4": {
+        "content": "In the medical evaluation with our specialist, we will know if you are fit for surgery and the corresponding tests will be determined."
+      },
+      "process5": {
+        "content": "Resume normal activities within one to two weeks after the procedure."
+      }
+    }
+  },
+
+  "mastopexia-con-implante": {
+    "banner": {
+      "image": "/images/servicios/plastica-corporal/mastopexia.png",
+      "alt": "mastopexia-con-implante",
+      "title": "Rejuvenate and lift your breasts with Mastopexy with Implant, ",
+      "titleSpan": "rediscover your youth and confidence!",
+      "content": "Mastopexy with implant is a breast lift surgery, and the placement of a breast implant to increase the size and improve the shape of the breasts."
+    },
+    "before-and-after": {
+      "title": "This is what your ",
+      "titleSpan": "surgery will look like with us"
+    },
+    "step-by-step": {
+      "title": "Benefits of undergoing ",
+      "titleSpan": "reduction mammoplasty",
+      "process1": {
+        "content": "Restore the appearance of your breasts."
+      },
+      "process2": {
+        "content": "Improves confidence and self-esteem."
+      },
+      "process3": {
+        "content": "Improve the posture and shape of your breasts."
+      },
+      "process4": {
+        "content": "Achieve greater volume and projection in your breasts."
+      },
+      "process5": {
+        "content": "Perform this procedure for: aging, pregnancy, lactation or significant weight changes."
+      }
+    }
+  },
+
+  "bypass-gastrico": {
+    "banner": {
+      "image": "/images/servicios/cirugia-bariatrica/bypass-gastrico.png",
+      "alt": "Gastric Bypass",
+      "title": "Gastric Bypass is an effective solution ",
+      "titleSpan": "for weight loss.",
+      "content": "This surgery limits the amount of food that can be eaten and reduces the absorption of nutrients, which can help people with obesity lose weight and improve their overall health."
+    },
+    "before-and-after": {
+      "title": "This is what your ",
+      "titleSpan": "surgery will look like with us"
+    },
+    "step-by-step": {
+      "title": "Some characteristics of the ",
+      "titleSpan": "Gastric Bypass that you should know about",
+      "process1": {
+        "content": "Reduce the amount of food that can be consumed at each meal."
+      },
+      "process2": {
+        "content": "It promotes weight loss that can be significant and sustained over the long term."
+      },
+      "process3": {
+        "content": "It requires lifestyle changes, such as adopting a healthy diet and exercising regularly."
+      },
+      "process4": {
+        "content": "It can improve obesity-related health conditions such as type 2 diabetes, high blood pressure and sleep apnea."
+      },
+      "process5": {
+        "content": "It requires prior evaluation to determine if they are suitable candidates and to understand the risks and benefits of surgery."
+      }
+    }
+  },
+
+  "manga-gastrica": {
+    "banner": {
+      "image": "/images/servicios/cirugia-bariatrica/manga-gastrica.png",
+      "alt": "Gastric Sleeve",
+      "title": "Control your diet and ",
+      "titleSpan": "look better than ever before.",
+      "content": "Gastric Sleeve is a surgery that will help you with weight loss, should be performed by a qualified and experienced bariatric surgeon, and should be considered as a last resort after other weight loss options have been tried without success."
+    },
+    "before-and-after": {
+      "title": "This is what your ",
+      "titleSpan": "surgery will look like with us"
+    },
+    "step-by-step": {
+      "title": "Care you should take after ",
+      "titleSpan": "Gastric Sleeve Surgery",
+      "process1": {
+        "content": "It is important to follow the diet prescribed by the doctor or nutritionist for optimal recovery."
+      },
+      "process2": {
+        "content": "It is essential to stay hydrated by drinking enough water and other sugar-free liquids."
+      },
+      "process3": {
+        "content": "You will need to attend follow-up appointments with your surgeon and health care team to monitor your progress."
+      },
+      "process4": {
+        "content": "Avoid heavy lifting and straining for several weeks after surgery."
+      },
+      "process5": {
+        "content": "You are likely to experience pain after surgery, so you will need to take painkillers as prescribed by your doctor."
+      }
+    }
+  },
+
+  "cirugia-de-revision": {
+    "banner": {
+      "image": "/images/servicios/cirugia-bariatrica/cirugia-revision.png",
+      "alt": "Revision surgery",
+      "title": "Revision surgery is a second chance to ",
+      "titleSpan": "achieve your health goals.",
+      "content": "This surgery is performed on people who have not achieved the desired results with their initial bariatric surgery, or who have developed complications such as blockages, acid reflux or insufficient weight loss."
+    },
+    "before-and-after": {
+      "title": "This is what your ",
+      "titleSpan": "surgery will look like with us"
+    },
+    "step-by-step": {
+      "title": "Learn the step-by-step procedure to undergo the ",
+      "titleSpan": "surgical procedure",
+      "process1": {
+        "content": "Through our digital channels we will provide you with all the information you need to make the best decision."
+      },
+      "process2": {
+        "content": "We fulfill the most desired appointment where our specialist will make your work of art."
+      },
+      "process3": {
+        "content": "We define the procedure that is right for you and take data to schedule the surgery."
+      },
+      "process4": {
+        "content": "In the medical evaluation with our specialist, we will know if you are fit for surgery and the corresponding tests will be determined."
+      },
+      "process5": {
+        "content": "The happiest days of your life will come, seeing little by little a result that will exceed your expectations."
+      }
+    }
+  },
+
+  "colocacion-y-retiro-de-balon-intragastrico": {
+    "banner": {
+      "image": "/images/servicios/cirugia-bariatrica/balon-intragastrico.png",
+      "alt": "Intragastric Balloon",
+      "title": "An intragastric balloon can be ",
+      "titleSpan": "a temporary tool to achieve lasting change.",
+      "content": "Placement and removal of an intragastric balloon should be performed by a physician experienced in endoscopic and weight control procedures, and should be considered as part of a comprehensive approach to weight loss, including lifestyle changes and healthy eating habits."
+    },
+    "before-and-after": {
+      "title": "This is what your ",
+      "titleSpan": "surgery will look like with us"
+    },
+    "step-by-step": {
+      "title": "Learn the step-by-step procedure to undergo the ",
+      "titleSpan": "surgical procedure",
+      "process1": {
+        "content": "Through our digital channels we will provide you with all the information you need to make the best decision."
+      },
+      "process2": {
+        "content": "We fulfill the most desired appointment where our specialist will make your work of art."
+      },
+      "process3": {
+        "content": "We define the procedure that is right for you and take data to schedule the surgery."
+      },
+      "process4": {
+        "content": "In the medical evaluation with our specialist, we will know if you are fit for surgery and the corresponding tests will be determined."
+      },
+      "process5": {
+        "content": "The happiest days of your life will come, seeing little by little a result that will exceed your expectations."
+      }
+    }
+  },
+
+  "cirugia-metabolica": {
+    "banner": {
+      "image": "/images/servicios/cirugia-bariatrica/cirugia-metabolica.png",
+      "alt": "Metabolic Surgery",
+      "title": "Metabolic surgery can help you ",
+      "titleSpan": "transform your health and your life.",
+      "content": "Metabolic surgery can be achieved through various procedures, such as gastric bypass, gastric sleeve, intragastric balloon and others, its goal is to help people with obesity to lose weight and improve their health."
+    },
+    "before-and-after": {
+      "title": "This is what your ",
+      "titleSpan": "surgery will look like with us"
+    },
+    "step-by-step": {
+      "title": "Some of the advantages of having ",
+      "titleSpan": "metabolic surgery",
+      "process1": {
+        "content": "It can help you lose a significant amount of weight in the long term."
+      },
+      "process2": {
+        "content": "It can improve or even cure health problems related to obesity, hypertension, sleep apnea and non-alcoholic fatty liver disease."
+      },
+      "process3": {
+        "content": "Improves quality of life by reducing the symptoms of obesity."
+      },
+      "process4": {
+        "content": "It helps motivate people to adopt a healthier lifestyle."
+      },
+      "process5": {
+        "content": "We have specialists ready to help you achieve your goals."
+      }
+    }
+  },
+
+  "diseno-de-sonrisa": {
+    "banner": {
+      "image": "/images/servicios/odontologia/diseno-sonrisa.png",
+      "alt": "Smile Makeover",
+      "title": "At MEDTRIP we give you ",
+      "titleSpan": "reasons to smile.",
+      "content": "This oral treatment goes beyond an aesthetic change, we seek to harmonize your face, improve the bite and dental reconstruction, with a new and natural smile."
+    },
+    "before-and-after": {
+      "title": "Increase your self-esteem and confidence with ",
+      "titleSpan": "your smile that will open up unlimited possibilities."
+    },
+    "step-by-step": {
+      "title": "Benefits ",
+      "titleSpan": "of a smile design",
+      "process1": {
+        "content": "Change the overall appearance: Smile design is one way to improve a person's facial appearance. You can give your smile a more attractive and natural look."
+      },
+      "process2": {
+        "content": "Increases confidence: A more harmonious smile increases self-confidence. This can help you to be a more open and self-confident person."
+      },
+      "process3": {
+        "content": "Reduces stress: Having a nice smile will help improve mental health by minimizing stress."
+      },
+      "process4": {
+        "content": "Improved oral health: Oral health will be improved with smile design. This includes better alignment of teeth, reduced gum exposure and improved dental hygiene."
+      },
+      "process5": {
+        "content": "Improves general health: Oral health and general health are closely related. A more attractive smile can help improve overall health."
+      }
+    }
+  },
+
+  "blanqueamiento": {
+    "banner": {
+      "image": "/images/servicios/odontologia/blanqueamiento.png",
+      "alt": "Teeth Whitening",
+      "title": "Thanks to MEDTRIP you will have a ",
+      "titleSpan": "sparkling clean smile.",
+      "content": "We can safely remove stains and discoloration from your teeth to improve their appearance and your confidence."
+    },
+    "before-and-after": {
+      "title": "A bright set of teeth that brightens your ",
+      "titleSpan": "face and gives you reason to smile."
+    },
+    "step-by-step": {
+      "title": "Benefits ",
+      "titleSpan": "of whitening",
+      "process1": {
+        "content": "Prevents diseases: After the application of our whitening protocols, the development of cavities and other oral diseases is prevented since the bacteria that cause these pathologies cannot easily adhere to the teeth."
+      },
+      "process2": {
+        "content": "Improves the appearance of teeth: In addition to removing stains, this treatment will give your teeth more shine and a healthier appearance."
+      },
+      "process3": {
+        "content": "Increases your confidence: Having a more aesthetic and healthy smile will improve the appearance of your face and as a consequence your self-esteem will be reinforced."
+      },
+      "process4": {
+        "content": "Having a nice and rejuvenated smile will help you project the image you want in a confident and trustworthy way."
+      }
+    }
+  }
+
+}
+
+

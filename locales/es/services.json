@@ -1,0 +1,363 @@
+{
+  "generalButton": "Ver más",
+  "advantages": {
+    "titlePt1": "Mira todas las ",
+    "span": "ventajas ",
+    "titlePt2": "que te ofrecemos ",
+    "item": [
+      {
+        "img": "/images/ventajas/ventajas5.png",
+        "alt": "Cuidado personal especializado",
+        "title": "Cuidamos de ti con personal especializado",
+        "content": "Cuidamos de ti con un personal especializado y profesional. Nuestro equipo está formado por profesionales médicos y terapistas altamente cualificados para brindarte el mejor tratamiento y la mejor atención."
+      },
+      {
+        "img": "/images/ventajas/ventajas4.png",
+        "alt": "Paquetes turísticos",
+        "title": "Paquetes turísticos únicos",
+        "content": "Junto a Medtrip conocerás la amplia variedad de paquetes turísticos únicos para todos los gustos. En tu recuperación podrás conocer los monumentos y realizar tours por las paradisíacas islas en la ciudad y todos sus alrededores."
+      },
+      {
+        "img": "/images/ventajas/ventajas2.jpg",
+        "alt": "Hospedaje",
+        "title": "Hospedaje que te hará sentir como en casa",
+        "content": "Con Medtrip te sentirás como en casa durante tu estancia, te ofrecemos hospedarte en un lugar seguro, adecuado a tus necesidades. Durante tu recuperación te brindamos un servicio personalizado y un ambiente íntimo que te hará sentir como en tu propia casa."
+      },
+      {
+        "img": "/images/ventajas/ventajas3.png",
+        "alt": "Transporte",
+        "title": "Te recogemos donde gustes",
+        "content": "Disfrutarás de la libertad y flexibilidad de moverte por la ciudad de Cartagena sin tener estipulado un horario o disponibilidad de otra persona. Contarás con un conductor y un carro particular donde puedas tener un mayor control sobre tu presupuesto y ahorrar dinero en viajes."
+      },
+      {
+        "img": "/images/ventajas/ventajas1.png",
+        "alt": "Alimentación saludable",
+        "title": "Ofrecemos una excelente alimentación saludable",
+        "content": "Te ofrecemos una alimentación a base de productos saludables. Tendrás una página de Nuestras comidas están preparadas con productos frescos de calidad para garantizar la mejor nutrición. Además, ofrecemos opciones vegetarianas y veganas, y contamos con menús bajos en grasa, azúcar y sodio. Nuestros platillos son deliciosos, nutritivos y equilibrados, para que puedas disfrutar de una excelente comida saludable."
+      },
+      {
+        "img": "/images/ventajas/ventajas4.png",
+        "alt": "Recuperación",
+        "title": "Encontramos el mejor espacio para tu recuperación",
+        "content": "Ofrecemos espacios acogedores y relajantes para que puedas recuperarte de tus intervenciones quirúrgicas. Contamos con hoteles y habitaciones equipadas con todas las comodidades necesarias para que te sientas como en casa. Medtrip se encargará de tener en cuenta los tratamientos terapéuticos para ayudarte a recuperarte de la mejor manera posible. ¡Estamos aquí para ayudarte!."
+      }
+    ]
+  },
+  "generalTitle": "Nuestros servicios",
+  "cirugia-plastica-facial": {
+    "banner": {
+      "title": "Cirugía  ",
+      "titleSpan": "Plástica Facial",
+      "content": "En Medtrip buscamos que te sientas segura y tengas la posibilidad de mejorar la apariencia de tu rostro. Contamos con profesionales expertos en cirugía facial, cirugía de nariz, levantamiento de pómulos, líneas de expresión,  cirugía de párpados, entre otras.",
+      "image": "/images/servicios/plastica-facial/banner.png",
+      "alt": "Cirugía Plástica Facial"
+    },
+    "services": {
+      "title": "Nuestros servicios",
+      "item": [
+        {
+          "title": "Rinoplastia",
+          "link": "/servicios/cirugia-plastica-facial/rinoplastia",
+          "img": "/images/servicios/plastica-facial/rinoplastia-prev.png",
+          "alt": "Rinoplastia"
+        },
+        {
+          "title": "Cirugía de Párpado",
+          "link": "/servicios/cirugia-plastica-facial/cirugia-de-parpado",
+          "img": "/images/servicios/plastica-facial/cirugia-parpados-prev.png",
+          "alt": "Cirugía de Párpado"
+        },
+        {
+          "title": "Bichectomia",
+          "link": "/servicios/cirugia-plastica-facial/bichectomia",
+          "img": "/images/servicios/plastica-facial/bichectomia-prev.png",
+          "alt": "Bichectomia"
+        },
+        {
+          "title": "Botox",
+          "link": "/servicios/cirugia-plastica-facial/botox",
+          "img": "/images/servicios/plastica-facial/botox-prev.png",
+          "alt": "Botox"
+        },
+        {
+          "title": "Lifting Facial",
+          "link": "/servicios/cirugia-plastica-facial/lifting-facial",
+          "img": "/images/servicios/plastica-facial/lifting-facial-prev.png",
+          "alt": "Lifting Facial"
+        },
+        {
+          "title": "Liposucción de Papada",
+          "link": "/servicios/cirugia-plastica-facial/liposuccion-de-papada",
+          "img": "/images/servicios/plastica-facial/liposuccion-papada-prev.png",
+          "alt": "Liposucción de Papada"
+        },
+        {
+          "title": "Otras soluciones de salud",
+          "link": "https://api.whatsapp.com/send?phone=573145208278&text=Hola%20Medtrip%F0%9F%A9%BA%20Estuve%20navegando%20por%20su%20sitio%20web.%20Me%20gustar%C3%ADa%20obtener%20informaci%C3%B3n%20sobre%20otras%20soluciones%20de%20salud%20en%20Cirug%C3%ADa%20Pl%C3%A1stica%20Facial",
+          "img": "/images/servicios/odontologia.png",
+          "alt": "Otras soluciones de salud"
+        }
+      ]
+    },
+    "advantages": {
+      "item": [
+        {
+          "title": "Ofrecemos una excelente alimentación saludable",
+          "content": "Te ofrecemos una alimentación a base de productos saludables. Tendrás una página de Nuestras comidas están preparadas con productos frescos de calidad para garantizar la mejor nutrición. Además, ofrecemos opciones vegetarianas y veganas, y contamos con menús bajos en grasa, azúcar y sodio. Nuestros platillos son deliciosos, nutritivos y equilibrados, para que puedas disfrutar de una excelente comida saludable."
+        },
+        {
+          "title": "Hospedaje que te hará sentir como en casa",
+          "content": "Con Medtrip te sentirás como en casa durante tu estancia, te ofrecemos hospedarte en un lugar seguro, adecuado a tus necesidades. Durante tu recuperación te brindamos un servicio personalizado y un ambiente íntimo que te hará sentir como en tu propia casa."
+        },
+        {
+          "title": "Te recogemos donde gustes",
+          "content": "Disfrutarás de la libertad y flexibilidad de moverte por la ciudad de Cartagena sin tener estipulado un horario o disponibilidad de otra persona. Contarás con un conductor y un carro particular donde puedas tener un mayor control sobre tu presupuesto y ahorrar dinero en viajes."
+        },
+        {
+          "title": "Encontramos el mejor espacio para tu recuperación",
+          "content": "Ofrecemos espacios acogedores y relajantes para que puedas recuperarte de tus intervenciones quirúrgicas. Contamos con hoteles, apartamentos y habitaciones equipadas con todas las comodidades necesarias para que te sientas como en casa. Medtrip se encargará de tener en cuenta los tratamientos terapéuticos para ayudarte a recuperarte de la mejor manera posible. ¡Estamos aquí para ayudarte!"
+        },
+        {
+          "title": "Cuidamos de ti con personal especializado",
+          "content": "Cuidamos de ti con un personal especializado y profesional. Nuestro equipo está formado por profesionales médicos y terapistas altamente cualificados para brindarte el mejor tratamiento y la mejor atención. "
+        }
+      ]
+    }
+  },
+
+  "cirugia-plastica-corporal": {
+    "banner": {
+      "title": "Cirugía ",
+      "titleSpan": "Plástica Corporal",
+      "content": "Con nuestra  cirugía plástica corporal buscamos mejorar la apariencia estética del cuerpo humano a través de procedimientos quirúrgicos. Contamos con personal médico especializado en tratar áreas específicas del cuerpo, como el abdomen, los glúteos, los senos, los brazos, las piernas y la espalda.",
+      "image": "/images/servicios/plastica-corporal/banner.png",
+      "alt": "Cirugía Plástica Facial"
+    },
+    "services": {
+      "title": "Nuestros servicios",
+      "item": [
+        {
+          "title": "Abdominoplastia",
+          "link": "/servicios/cirugia-plastica-corporal/abdominoplastia",
+          "img": "/images/servicios/plastica-corporal/abdominoplastia.png",
+          "alt": "Abdominoplastia"
+        },
+        {
+          "title": "Lipoescultura HD",
+          "link": "/servicios/cirugia-plastica-corporal/lipoescultura",
+          "img": "/images/servicios/plastica-corporal/lipoescultura-hd.png",
+          "alt": "Lipoescultura HD"
+        },
+        {
+          "title": "Lipotransferencia Glútea",
+          "link": "/servicios/cirugia-plastica-corporal/lipotransferencia-glutea",
+          "img": "/images/servicios/plastica-corporal/lipotransferencia-glutea.png",
+          "alt": "Lipotransferencia Glutea"
+        },
+        {
+          "title": "Mamoplastia de Aumento",
+          "link": "/servicios/cirugia-plastica-corporal/mamoplastia-de-aumento",
+          "img": "/images/servicios/plastica-corporal/mamoplastia-de-aumento.png",
+          "alt": "Mamoplastia de aumento"
+        },
+        {
+          "title": "Mamoplastia de Reducción",
+          "link": "/servicios/cirugia-plastica-corporal/mamoplastia-de-reducción",
+          "img": "/images/servicios/plastica-corporal/mamoplastia-de-reduccion.png",
+          "alt": "Mamoplastia de reducción"
+        },
+        {
+          "title": "Mastopexia con Implante",
+          "link": "/servicios/cirugia-plastica-corporal/mastopexia-con-implante",
+          "img": "/images/servicios/plastica-corporal/mastopexia-con-implantes.png",
+          "alt": "Mastopexia con implantes"
+        },
+        {
+          "title": "Otras soluciones de salud",
+          "link": "https://api.whatsapp.com/send?phone=573145208278&text=Hola%20Medtrip%F0%9F%A9%BA%20Estuve%20navengando%20su%20sitio%20web.%20Me%20gustar%C3%ADa%20obtener%20informaci%C3%B3n%20sobre%20otras%20soluciones%20de%20salud%20de%20cirug%C3%ADa%20pl%C3%A1stica%20corporal.",
+          "img": "/images/servicios/odontologia.png",
+          "alt": "Otras soluciones de salud"
+        }
+      ]
+    },
+    "advantages": {
+      "item": [
+        {
+          "title": "Hospedaje que te hará sentir como en casa",
+          "content": "Con Medtrip te sentirás como en casa durante tu estancia, te ofrecemos hospedarte en un lugar seguro, adecuado a tus necesidades. Durante tu recuperación te brindamos un servicio personalizado y un ambiente íntimo que te hará sentir como en tu propia casa."
+        },
+        {
+          "title": "Te recogemos donde gustes",
+          "content": "Disfrutarás de la libertad y flexibilidad de moverte por la ciudad de Cartagena sin tener estipulado un horario o disponibilidad de otra persona. Contarás con un conductor y un carro particular donde puedas tener un mayor control sobre tu presupuesto y ahorrar dinero en viajes."
+        },
+        {
+          "title": "Encontramos el mejor espacio para tu recuperación",
+          "content": "Ofrecemos espacios acogedores y relajantes para que puedas recuperarte de tus intervenciones quirúrgicas. Contamos con hoteles y habitaciones equipadas con todas las comodidades necesarias para que te sientas como en casa. Medtrip se encargará de tener en cuenta los tratamientos terapéuticos para ayudarte a recuperarte de la mejor manera posible. ¡Estamos aquí para ayudarte!. "
+        },
+        {
+          "title": "Paquetes turísticos únicos",
+          "content": "Junto a Medtrip conocerás la amplia variedad de paquetes turísticos únicos para todos los gustos. En tu recuperación podrás conocer los monumentos y realizar tours por las paradisíacas islas en la ciudad y todos sus alrededores."
+        },
+        {
+          "title": "Cuidamos de ti con personal especializado",
+          "content": "Cuidamos de ti con un personal especializado y profesional. Nuestro equipo está formado por profesionales médicos y terapistas altamente cualificados para brindarte el mejor tratamiento y la mejor atención."
+        },
+        {
+          "title": "Ofrecemos una excelente alimentación saludable",
+          "content": "Te ofrecemos una alimentación a base de productos saludables. Tendrás una página de Nuestras comidas están preparadas con productos frescos de calidad para garantizar la mejor nutrición. Además, ofrecemos opciones vegetarianas y veganas, y contamos con menús bajos en grasa, azúcar y sodio. Nuestros platillos son deliciosos, nutritivos y equilibrados, para que puedas disfrutar de una excelente comida saludable."
+        }
+      ]
+    }
+  },
+
+  "cirugia-bariatrica": {
+    "banner": {
+      "title": "Cirugía ",
+      "titleSpan": "Bariátrica",
+      "content": "Realizamos un conjunto de técnicas quirúrgicas que se utilizan para ayudar a las personas con obesidad mórbida a perder peso y mejorar su salud.",
+      "image": "/images/servicios/cirugia-bariatrica/banner.png",
+      "alt": "Cirugía Plástica Facial"
+    },
+    "services": {
+      "title": "Nuestros servicios",
+      "item": [
+        {
+          "title": "Bypass Gástrico",
+          "link": "/servicios/cirugia-bariatrica/bypass-gastrico",
+          "img": "/images/servicios/cirugia-bariatrica/bypass-gastrico-prev.png",
+          "alt": "Bypass Gástrico"
+        },
+        {
+          "title": "Manga Gástrica",
+          "link": "/servicios/cirugia-bariatrica/manga-gastrica",
+          "img": "/images/servicios/cirugia-bariatrica/manga-gastrica-prev.png",
+          "alt": "Manga Gástrica"
+        },
+        {
+          "title": "Cirugía de revisión",
+          "link": "/servicios/cirugia-bariatrica/cirugia-de-revision",
+          "img": "/images/servicios/cirugia-bariatrica/cirugia-revision-prev.jpg",
+          "alt": "Cirugía de revisión"
+        },
+        {
+          "title": "Colocación y Retiro de Balón Intragástrico",
+          "link": "/servicios/cirugia-bariatrica/colocacion-y-retiro-de-balon-intragastrico",
+          "img": "/images/servicios/cirugia-bariatrica/balon-intragastrico-prev.png",
+          "alt": "Balón Intragástrico"
+        },
+        {
+          "title": "Cirugía Metabólica",
+          "link": "/servicios/cirugia-bariatrica/cirugia-metabolica",
+          "img": "/images/servicios/cirugia-bariatrica/cirugia-metabolica-prev.png",
+          "alt": "Cirugía Metabólica"
+        },
+        {
+          "title": "Otras soluciones de salud",
+          "link": "https://api.whatsapp.com/send?phone=573145208278&text=Hola%20Medtrip%F0%9F%A9%BA%20Estuve%20navengando%20su%20sitio%20web.%20Me%20gustar%C3%ADa%20obtener%20informaci%C3%B3n%20sobre%20otras%20soluciones%20de%20salud%20de%20cirug%C3%ADa%20b%C3%A1riatica.",
+          "img": "/images/servicios/odontologia.png",
+          "alt": "Otras soluciones de salud"
+        }
+      ]
+    },
+    "advantages": {
+      "item": [
+        {
+          "img": "/images/ventajas/ventajas5.png",
+          "alt": "Cuidado personal especializado",
+          "title": "Cuidamos de ti con personal especializado",
+          "content": "Cuidamos de ti con un personal especializado y profesional. Nuestro equipo está formado por profesionales médicos y terapistas altamente cualificados para brindarte el mejor tratamiento y la mejor atención."
+        },
+        {
+          "img": "/images/ventajas/ventajas4.png",
+          "alt": "Paquetes turísticos",
+          "title": "Paquetes turísticos únicos",
+          "content": "Junto a Medtrip conocerás la amplia variedad de paquetes turísticos únicos para todos los gustos. En tu recuperación podrás conocer los monumentos y realizar tours por las paradisíacas islas en la ciudad y todos sus alrededores."
+        },
+        {
+          "img": "/images/ventajas/ventajas2.png",
+          "alt": "Hospedaje",
+          "title": "Hospedaje que te hará sentir como en casa",
+          "content": "Con Medtrip te sentirás como en casa durante tu estancia, te ofrecemos hospedarte en un lugar seguro, adecuado a tus necesidades. Durante tu recuperación te brindamos un servicio personalizado y un ambiente íntimo que te hará sentir como en tu propia casa."
+        },
+        {
+          "img": "/images/ventajas/ventajas3.png",
+          "alt": "Transporte",
+          "title": "Te recogemos donde gustes",
+          "content": "Disfrutarás de la libertad y flexibilidad de moverte por la ciudad de Cartagena sin tener estipulado un horario o disponibilidad de otra persona. Contarás con un conductor y un carro particular donde puedas tener un mayor control sobre tu presupuesto y ahorrar dinero en viajes."
+        },
+        {
+          "img": "/images/ventajas/ventajas1.png",
+          "alt": "Alimentación saludable",
+          "title": "Ofrecemos una excelente alimentación saludable",
+          "content": "Te ofrecemos una alimentación a base de productos saludables. Tendrás una página de Nuestras comidas están preparadas con productos frescos de calidad para garantizar la mejor nutrición. Además, ofrecemos opciones vegetarianas y veganas, y contamos con menús bajos en grasa, azúcar y sodio. Nuestros platillos son deliciosos, nutritivos y equilibrados, para que puedas disfrutar de una excelente comida saludable."
+        },
+        {
+          "img": "/images/ventajas/",
+          "alt": "Recuperación",
+          "title": "Encontramos el mejor espacio para tu recuperación",
+          "content": "Ofrecemos espacios acogedores y relajantes para que puedas recuperarte de tus intervenciones quirúrgicas. Contamos con hoteles y habitaciones equipadas con todas las comodidades necesarias para que te sientas como en casa. Medtrip se encargará de tener en cuenta los tratamientos terapéuticos para ayudarte a recuperarte de la mejor manera posible. ¡Estamos aquí para ayudarte!."
+        }
+      ]
+    }
+  },
+
+  "odontologia-estetica": {
+    "banner": {
+      "title": "Odontología",
+      "titleSpan": " Estética",
+      "content": "Enfocaremos nuestros servicios para mejorar la apariencia de tu sonrisa a través de diferentes procedimientos dentales, para que te sientas seguro de ti mismo.",
+      "image": "/images/servicios/odontologia/banner-odontologia.png",
+      "alt": "Odontología"
+    },
+    "services": {
+      "item": [
+        {
+          "title": "Diseño de Sonrisa",
+          "link": "/servicios/odontologia-estetica/diseno-de-sonrisa",
+          "img": "/images/servicios/odontologia/diseno-sonrisa-prev.png",
+          "alt": "Sonrisa bonita"
+        },
+        {
+          "title": "Blanqueamiento",
+          "link": "/servicios/odontologia-estetica/blanqueamiento",
+          "img": "/images/servicios/odontologia/blanqueamiento-prev.png",
+          "alt": "Blanqueamiento"
+        },
+        {
+          "title": "Otras soluciones de salud",
+          "link": "https://api.whatsapp.com/send?phone=573145208278&text=Hola%20Medtrip%F0%9F%A9%BA%20Estuve%20navegando%20por%20su%20sitio%20web.%20Me%20gustar%C3%ADa%20obtener%20informaci%C3%B3n%20sobre%20otras%20soluciones%20de%20salud%20en%20Odontolog%C3%ADa%20Est%C3%A9tica.",
+          "img": "/images/servicios/odontologia.png",
+          "alt": "Otras soluciones de salud"
+        }
+      ]
+    },
+    "advantages": {
+      "item": [
+        {
+          "title": "Hospedaje que te hará sentir como en casa",
+          "content": "Con Medtrip te sentirás como en casa durante tu estancia, te ofrecemos hospedarte en un lugar seguro, adecuado a tus necesidades. Durante tu recuperación te brindamos un servicio personalizado y un ambiente íntimo que te hará sentir como en tu propia casa. "
+        },
+        {
+          "title": "Paquetes turísticos únicos",
+          "content": "Junto a Medtrip conocerás la amplia variedad de paquetes turísticos únicos para todos los gustos. En tu recuperación podrás conocer los monumentos y realizar tours por las paradisíacas islas en la ciudad y todos sus alrededores."
+        },
+        {
+          "title": "Encontramos el mejor espacio para tu recuperación",
+          "content": "Ofrecemos espacios acogedores y relajantes para que puedas recuperarte de tus intervenciones quirúrgicas. Contamos con hoteles y habitaciones equipadas con todas las comodidades necesarias para que te sientas como en casa. Medtrip se encargará de tener en cuenta los tratamientos terapéuticos para ayudarte a recuperarte de la mejor manera posible. ¡Estamos aquí para ayudarte!"
+        },
+        {
+          "title": "Cuidamos de ti con personal especializado",
+          "content": "Cuidamos de ti con un personal especializado y profesional. Nuestro equipo está formado por profesionales médicos y terapistas altamente cualificados para brindarte el mejor tratamiento y la mejor atención."
+        },
+        {
+          "title": "Te recogemos donde gustes",
+          "content": "Disfrutarás de la libertad y flexibilidad de moverte por la ciudad de Cartagena sin tener estipulado un horario o disponibilidad de otra persona. Contarás con un conductor y un carro particular donde puedas tener un mayor control sobre tu presupuesto y ahorrar dinero en viajes."
+        },
+        {
+          "title": "Ofrecemos una excelente alimentación saludable",
+          "content": "Te ofrecemos una alimentación a base de productos saludables. Tendrás una página de Nuestras comidas están preparadas con productos frescos de calidad para garantizar la mejor nutrición. Además, ofrecemos opciones vegetarianas y veganas, y contamos con menús bajos en grasa, azúcar y sodio. Nuestros platillos son deliciosos, nutritivos y equilibrados, para que puedas disfrutar de una excelente comida saludable."
+        }
+      ]
+    }
+  }
+}

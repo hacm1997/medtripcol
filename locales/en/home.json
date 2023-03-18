@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Be your best version, be ",
+    "titleSpan": "confident and secure",
+    "content": "With Medtrip, through medical tourism, we will impact your life in a safe way and under all the standards that guarantee results that will exceed your expectations."
+  },
+  "services": {
+    "title": "Medical services",
+    "item": [
+      {
+        "title": "Body Plastic Surgery",
+        "link": "/servicios/cirugia-plastica-corporal",
+        "img": "/images/servicios/plastica-corporral.jpg",
+        "alt": "Cirujia plástica facial"
+      },
+      {
+        "title": "Facial Plastic Surgery",
+        "link": "/servicios/cirugia-plastica-facial",
+        "img": "/images/servicios/facial.jpg",
+        "alt": "Cirugía plástica corporal"
+      },
+      {
+        "title": "Bariatric Surgery",
+        "link": "/servicios/cirugia-bariatrica",
+        "img": "/images/servicios/bariatrica.jpg",
+        "alt": "Cirugía Bariatrica"
+      },
+      {
+        "title": "Aesthetic Dentistry",
+        "link": "/servicios/odontologia-estetica",
+        "img": "/images/servicios/odontologica.jpg",
+        "alt": "Odontología estética"
+      }
+    ],
+    "cardSecundary": {
+      "title": "Other healthcare solutions",
+      "link": "https://api.whatsapp.com/send?phone=573145208278&text=Medtrip%F0%9F%A9%BA,%20vengo%20de%20su%20sitio%20web%20y%20quisiera%20obtener%20m%C3%A1s%20informaci%C3%B3n%20de%20otras%20soluciones%20de%20salud%20que%20ustedes%20pueden%20ofrecer.%20",
+      "contact": "Contact us"
+    }
+  },
+  "TravelWithUs": {
+    "title": "Travel with us",
+    "content": "We offer packages with a wide variety of services for you to have an excellent recovery and take advantage of the city of Cartagena. Enjoy your best version in spaces full of comfort.",
+    "link": "/turismo"
+  },
+  "button": "See more"
+}

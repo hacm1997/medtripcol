@@ -1,0 +1,39 @@
+{
+  "nav": {
+    "title": "Services",
+    "services": [
+      {
+        "title": "Facial Plastic Surgery",
+        "url": "/cirugia-plastica-facial"
+      },
+      {
+        "title": "Esthetic Dentistry",
+        "url": "/odontologia-estetica"
+      },
+      {
+        "title": "Body Plastic Surgery",
+        "url": "/cirugia-plastica-corporal"
+      },
+      {
+        "title": "Bariatric Surgery",
+        "url": "/cirugia-bariatrica"
+      }
+    ],
+    "item": [
+      {
+        "name": "Tourism",
+        "url": "/turismo",
+        "active": false
+      },
+      {
+        "name": "Blog",
+        "url": "/blog",
+        "active": false
+      }
+    ]
+  },
+  "button": {
+    "name": "Schedule an appointment",
+    "url": "#"
+  }
+}

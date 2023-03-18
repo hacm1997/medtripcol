@@ -1,0 +1,352 @@
+{
+  "generalButton": "See more",
+  "advantages": {
+    "titlePt1": "See all the ",
+    "span": "advantages ",
+    "titlePt2": "we offer you",
+    "item": [
+      {
+        "img": "/images/ventajas/ventajas5.png",
+        "alt": "Take care specialized personnel",
+        "title": "We take care of you with specialized personnel",
+        "content": "We take care of you with a specialized and professional staff. Our team is made up of highly qualified medical professionals and therapists to provide you with the best treatment and the best care."
+      },
+      {
+        "img": "/images/ventajas/ventajas4.png",
+        "alt": "Tour packages",
+        "title": "Unique tour packages",
+        "content": "Together with Medtrip you will get to know the wide variety of unique tour packages for all tastes. In your recovery you will be able to visit the monuments and make tours to the paradisiacal islands in the city and all its surroundings."
+      },
+      {
+        "img": "/images/ventajas/ventajas2.jpg",
+        "alt": "Lodging",
+        "title": "Lodging that will make you feel right at home",
+        "content": "With Medtrip you will feel at home during your stay, we offer you to stay in a safe place, adequate to your needs. During your recovery we provide you with personalized service and an intimate atmosphere that will make you feel at home."
+      },
+      {
+        "img": "/images/ventajas/ventajas3.png",
+        "alt": "Transport",
+        "title": "We pick you up wherever you want",
+        "content": "You will enjoy the freedom and flexibility to move around the city of Cartagena without having a stipulated schedule or availability of another person. You will have a driver and a private car where you can have more control over your budget and save money on travel."
+      },
+      {
+        "img": "/images/ventajas/ventajas1.png",
+        "alt": "Healthy food",
+        "title": "We offer excellent healthy food",
+        "content": "We offer you a diet based on healthy products. Our meals are prepared with fresh, quality products to guarantee the best nutrition. In addition, we offer vegetarian and vegan options, and we have menus low in fat, sugar and sodium. Our dishes are delicious, nutritious and balanced, so you can enjoy an excellent healthy meal."
+      },
+      {
+        "img": "/images/ventajas/ventajas4.png",
+        "alt": "Recovery",
+        "title": "We find the best space for your recovery",
+        "content": "We offer cozy and relaxing spaces for you to recover from your surgical procedures. We have hotels and rooms equipped with all the necessary comforts to make you feel at home. Medtrip will take into account the therapeutic treatments to help you recover in the best possible way, we are here to help you!"
+      }
+    ]
+  },
+  "generalTitle": "Our services",
+  "cirugia-plastica-facial": {
+    "banner": {
+      "title": "Facial",
+      "titleSpan": "Plastic Surgery",
+      "content": "At Medtrip we want you to feel confident and have the possibility to improve the appearance of your face. We have professional experts in facial surgery, nose surgery, cheek lift, expression lines, eyelid surgery, among others.",
+      "image": "/images/servicios/plastica-facial/banner.png",
+      "alt": "Facial Plastic Surgery"
+    },
+    "services": {
+      "item": [
+        {
+          "title": "Rhinoplasty",
+          "link": "/en/servicios/cirugia-plastica-facial/rinoplastia",
+          "img": "/images/servicios/plastica-facial/rinoplastia-prev.png",
+          "alt": "Rhinoplasty"
+        },
+        {
+          "title": "Eyelid Surgery",
+          "link": "/en/servicios/cirugia-plastica-facial/cirugia-de-parpado",
+          "img": "/images/servicios/plastica-facial/cirugia-parpados-prev.png",
+          "alt": "Eyelid Surgery"
+        },
+        {
+          "title": "Bichectomy",
+          "link": "/en/servicios/cirugia-plastica-facial/bichectomia",
+          "img": "/images/servicios/plastica-facial/bichectomia-prev.png",
+          "alt": "Bichectomy"
+        },
+        {
+          "title": "Botox",
+          "link": "/en/servicios/cirugia-plastica-facial/botox",
+          "img": "/images/servicios/plastica-facial/botox-prev.png",
+          "alt": "Botox"
+        },
+        {
+          "title": "Lifting Facial",
+          "link": "/en/servicios/cirugia-plastica-facial/lifting-facial",
+          "img": "/images/servicios/plastica-facial/lifting-facial-prev.png",
+          "alt": "Lifting Facial"
+        },
+        {
+          "title": "Liposuction of Double chin",
+          "link": "/en/servicios/cirugia-plastica-facial/liposuccion-de-papada",
+          "img": "/images/servicios/plastica-facial/liposuccion-papada-prev.png",
+          "alt": "Liposuction of Double chin"
+        },
+        {
+          "title": "Other healthcare solutions",
+          "link": "https://api.whatsapp.com/send?phone=573145208278&text=Hola%20Medtrip%F0%9F%A9%BA%20Estuve%20navegando%20por%20su%20sitio%20web.%20Me%20gustar%C3%ADa%20obtener%20informaci%C3%B3n%20sobre%20otras%20soluciones%20de%20salud%20en%20Cirug%C3%ADa%20Pl%C3%A1stica%20Facial",
+          "img": "/images/servicios/odontologia.png",
+          "alt": "Other healthcare solutions"
+        }
+      ]
+    },
+    "advantages": {
+      "item": [
+        {
+          "title": "We offer excellent healthy food",
+          "content": "We offer you a diet based on healthy products. Our meals are prepared with fresh, quality products to guarantee the best nutrition. In addition, we offer vegetarian and vegan options, and we have menus low in fat, sugar and sodium. Our dishes are delicious, nutritious and balanced, so you can enjoy an excellent healthy meal."
+        },
+        {
+          "title": "Unique tour packages",
+          "content": "Together with Medtrip you will get to know the wide variety of unique tour packages for all tastes. In your recovery you will be able to visit the monuments and make tours to the paradisiacal islands in the city and all its surroundings."
+        },
+        {
+          "title": "Lodging that will make you feel right at home",
+          "content": "With Medtrip you will feel at home during your stay, we offer you to stay in a safe place, adequate to your needs. During your recovery we provide you with personalized service and an intimate atmosphere that will make you feel at home."
+        },
+        {
+          "title": "We can pick you up wherever you want",
+          "content": "You will enjoy the freedom and flexibility to move around the city of Cartagena without having a stipulated schedule or availability of another person. You will have a driver and a private car so you can have more control over your budget and save money on travel."
+        },
+        {
+          "title": "We find the best place for your recovery",
+          "content": "We offer cozy and relaxing spaces for you to recover from your surgical procedures. We have hotels, apartments and rooms equipped with all the necessary comforts to make you feel at home. Medtrip will take into account the therapeutic treatments to help you recover in the best possible way. We are here to help you!"
+        },
+        {
+          "title": "We take care of you with specialized personnel",
+          "content": "We take care of you with a specialized and professional staff. Our team is made up of highly qualified medical professionals and therapists to provide you with the best treatment and the best care."
+        }
+      ]
+    }
+  },
+
+  "cirugia-plastica-corporal": {
+    "banner": {
+      "title": "Body Plastic",
+      "titleSpan": "Surgery",
+      "content": "With our body plastic surgery we seek to improve the aesthetic appearance of the human body through surgical procedures. We have medical personnel specialized in treating specific areas of the body, such as the abdomen, buttocks, breasts, arms, legs and back.",
+      "image": "/images/servicios/plastica-corporal/banner.png",
+      "alt": "Body Plastic"
+    },
+    "services": {
+      "item": [
+        {
+          "title": "Abdominoplasty",
+          "link": "/en/servicios/cirugia-plastica-corporal/abdominoplastia",
+          "img": "/images/servicios/plastica-corporal/abdominoplastia.png",
+          "alt": "Abdominoplasty"
+        },
+        {
+          "title": "HD Liposculpture",
+          "link": "/en/servicios/cirugia-plastica-corporal/lipoescultura",
+          "img": "/images/servicios/plastica-corporal/lipoescultura-hd.png",
+          "alt": "HD Liposculpture"
+        },
+        {
+          "title": "Buttock Lipotransfer",
+          "link": "/en/servicios/cirugia-plastica-corporal/lipotransferencia-glutea",
+          "img": "/images/servicios/plastica-corporal/lipotransferencia-glutea.png",
+          "alt": "Buttock Lipotransfer"
+        },
+        {
+          "title": "Augmentation mammoplasty",
+          "link": "/en/servicios/cirugia-plastica-corporal/mamoplastia-de-aumento",
+          "img": "/images/servicios/plastica-corporal/mamoplastia-de-aumento.png",
+          "alt": "Augmentation mammoplasty"
+        },
+        {
+          "title": "Reduction mammoplasty",
+          "link": "/en/servicios/cirugia-plastica-corporal/mamoplastia-de-reducción",
+          "img": "/images/servicios/plastica-corporal/mamoplastia-de-reduccion.png",
+          "alt": "Reduction mammoplasty"
+        },
+        {
+          "title": "Mastopexy with Implant",
+          "link": "/en/servicios/cirugia-plastica-corporal/mastopexia-con-implante",
+          "img": "/images/servicios/plastica-corporal/mastopexia-con-implantes.png",
+          "alt": "Mastopexy with Implant"
+        },
+        {
+          "title": "Other healthcare solutions",
+          "link": "https://api.whatsapp.com/send?phone=573145208278&text=Hola%20Medtrip%F0%9F%A9%BA%20Estuve%20navengando%20su%20sitio%20web.%20Me%20gustar%C3%ADa%20obtener%20informaci%C3%B3n%20sobre%20otras%20soluciones%20de%20salud%20de%20cirug%C3%ADa%20pl%C3%A1stica%20corporal.",
+          "img": "/images/servicios/odontologia.png",
+          "alt": "Other healthcare solutions"
+        }
+      ]
+    },
+    "advantages": {
+      "item": [
+        {
+          "title": "Lodging that will make you feel right at home",
+          "content": "With Medtrip you will feel at home during your stay, we offer you to stay in a safe place, adequate to your needs. During your recovery we provide you with personalized service and an intimate atmosphere that will make you feel at home."
+        },
+        {
+          "title": "We pick you up wherever you want",
+          "content": "You will enjoy the freedom and flexibility to move around the city of Cartagena without having a stipulated schedule or availability of another person. You will have a driver and a private car where you can have more control over your budget and save money on travel."
+        },
+        {
+          "title": "We find the best space for your recovery",
+          "content": "We offer cozy and relaxing spaces for you to recover from your surgical procedures. We have hotels and rooms equipped with all the necessary comforts to make you feel at home. Medtrip will take into account the therapeutic treatments to help you recover in the best possible way, we are here to help you!"
+        },
+        {
+          "title": "Unique tour packages",
+          "content": "Together with Medtrip you will get to know the wide variety of unique tour packages for all tastes. In your recovery you will be able to visit the monuments and make tours to the paradisiacal islands in the city and all its surroundings."
+        },
+        {
+          "title": "We take care of you with specialized personnel",
+          "content": "We take care of you with a specialized and professional staff. Our team is made up of highly qualified medical professionals and therapists to provide you with the best treatment and the best care."
+        },
+        {
+          "title": "We offer excellent healthy food",
+          "content": "We offer you a diet based on healthy products. Our meals are prepared with fresh, quality products to guarantee the best nutrition. In addition, we offer vegetarian and vegan options, and we have menus low in fat, sugar and sodium. Our dishes are delicious, nutritious and balanced, so you can enjoy an excellent healthy meal."
+        }
+      ]
+    }
+  },
+
+  "cirugia-bariatrica": {
+    "banner": {
+      "title": "Bariatric ",
+      "titleSpan": "Surgery",
+      "content": "We perform a set of surgical techniques used to help morbidly obese people lose weight and improve their health.",
+      "image": "/images/servicios/cirugia-bariatrica/banner.png",
+      "alt": "Bariatric Surgery"
+    },
+    "services": {
+      "item": [
+        {
+          "title": "Gastric Bypass",
+          "link": "/en/servicios/cirugia-bariatrica/bypass-gastrico",
+          "img": "/images/servicios/cirugia-bariatrica/bypass-gastrico-prev.png",
+          "alt": "Gastric Bypass"
+        },
+        {
+          "title": "Gastric Sleeve",
+          "link": "/en/servicios/cirugia-bariatrica/manga-gastrica",
+          "img": "/images/servicios/cirugia-bariatrica/manga-gastrica-prev.png",
+          "alt": "Gastric Sleeve"
+        },
+        {
+          "title": "Revision surgery",
+          "link": "/servicios/cirugia-bariatrica/cirugia-de-revision",
+          "img": "/images/servicios/cirugia-bariatrica/cirugia-revision-prev.jpg",
+          "alt": "Revision surgery"
+        },
+        {
+          "title": "Intragastric Balloon Placement and Removal",
+          "link": "/en/servicios/cirugia-bariatrica/colocacion-y-retiro-de-balon-intragastrico",
+          "img": "/images/servicios/cirugia-bariatrica/balon-intragastrico-prev.png",
+          "alt": "Intragastric Balloon"
+        },
+        {
+          "title": "Metabolic Surgery",
+          "link": "/en/servicios/cirugia-bariatrica/cirugia-metabolica",
+          "img": "/images/servicios/cirugia-bariatrica/cirugia-metabolica-prev.png",
+          "alt": "Metabolic Surgery"
+        },
+        {
+          "title": "Other health solutions",
+          "link": "https://api.whatsapp.com/send?phone=573145208278&text=Hola%20Medtrip%F0%9F%A9%BA%20Estuve%20navengando%20su%20sitio%20web.%20Me%20gustar%C3%ADa%20obtener%20informaci%C3%B3n%20sobre%20otras%20soluciones%20de%20salud%20de%20cirug%C3%ADa%20b%C3%A1riatica.",
+          "img": "/images/servicios/odontologia.png",
+          "alt": "Other healthcare solutions"
+        }
+      ]
+    },
+    "advantages": {
+      "item": [
+        {
+          "title": "We take care of you with specialized personnel",
+          "content": "We take care of you with a specialized and professional staff. Our team is made up of highly qualified medical professionals and therapists to provide you with the best treatment and the best care."
+        },
+        {
+          "title": "Unique tour packages",
+          "content": "Together with Medtrip you will get to know the wide variety of unique tour packages for all tastes. In your recovery you will be able to visit the monuments and make tours to the paradisiacal islands in the city and all its surroundings."
+        },
+        {
+          "title": "Lodging that will make you feel right at home",
+          "content": "With Medtrip you will feel at home during your stay, we offer you to stay in a safe place, adequate to your needs. During your recovery we provide you with personalized service and an intimate atmosphere that will make you feel at home."
+        },
+        {
+          "title": "We pick you up wherever you want",
+          "content": "You will enjoy the freedom and flexibility to move around the city of Cartagena without having a stipulated schedule or availability of another person. You will have a driver and a private car where you can have more control over your budget and save money on travel."
+        },
+        {
+          "title": "We offer excellent healthy food",
+          "content": "We offer you a diet based on healthy products. Our meals are prepared with fresh, quality products to guarantee the best nutrition. In addition, we offer vegetarian and vegan options, and we have menus low in fat, sugar and sodium. Our dishes are delicious, nutritious and balanced, so you can enjoy an excellent healthy meal."
+        },
+        {
+          "title": "We find the best space for your recovery",
+          "content": "We offer cozy and relaxing spaces for you to recover from your surgical procedures. We have hotels and rooms equipped with all the necessary comforts to make you feel at home. Medtrip will take into account the therapeutic treatments to help you recover in the best possible way, we are here to help you!"
+        }
+      ]
+    }
+  },
+
+  "odontologia-estetica": {
+    "banner": {
+      "title": "Esthetic",
+      "titleSpan": " Dentistry",
+      "content": "We will focus our services to improve the appearance of your smile through different dental procedures, so you can feel confident.",
+      "image": "/images/servicios/odontologia/banner-odontologia.png",
+      "alt": "Esthetic Dentistry"
+    },
+    "services": {
+      "item": [
+        {
+          "title": "Smile Makeover",
+          "link": "/en/servicios/odontologia-estetica/diseno-de-sonrisa",
+          "img": "/images/servicios/odontologia/diseno-sonrisa-prev.png",
+          "alt": "Smile Makeover"
+        },
+        {
+          "title": "Teeth Whitening",
+          "link": "/en/servicios/odontologia-estetica/blanqueamiento",
+          "img": "/images/servicios/odontologia/blanqueamiento-prev.png",
+          "alt": "Teeth Whitening"
+        },
+        {
+          "title": "Other healthcare solutions",
+          "link": "https://api.whatsapp.com/send?phone=573145208278&text=Hola%20Medtrip%F0%9F%A9%BA%20Estuve%20navegando%20por%20su%20sitio%20web.%20Me%20gustar%C3%ADa%20obtener%20informaci%C3%B3n%20sobre%20otras%20soluciones%20de%20salud%20en%20Odontolog%C3%ADa%20Est%C3%A9tica.",
+          "img": "/images/servicios/odontologia.png",
+          "alt": "Other healthcare solutions"
+        }
+      ]
+    },
+    "advantages": {
+      "item": [
+        {
+          "title": "Lodging that will make you feel right at home",
+          "content": "With Medtrip you will feel at home during your stay, we offer you to stay in a safe place, adequate to your needs. During your recovery we provide you with personalized service and an intimate atmosphere that will make you feel at home."
+        },
+        {
+          "title": "We find the best space for your recovery",
+          "content": "We offer cozy and relaxing spaces for you to recover from your surgical procedures. We have hotels and rooms equipped with all the necessary comforts to make you feel at home. Medtrip will take into account the therapeutic treatments to help you recover in the best possible way, we are here to help you!"
+        },
+        {
+          "title": "We take care of you with specialized personnel",
+          "content": "We take care of you with a specialized and professional staff. Our team is made up of highly qualified medical professionals and therapists to provide you with the best treatment and the best care."
+        },
+        {
+          "title": "We pick you up wherever you want",
+          "content": "You will enjoy the freedom and flexibility to move around the city of Cartagena without having a stipulated schedule or availability of another person. You will have a driver and a private car where you can have more control over your budget and save money on travel."
+        },
+        {
+          "title": "Unique tour packages",
+          "content": "Together with Medtrip you will get to know the wide variety of unique tour packages for all tastes. In your recovery you will be able to visit the monuments and make tours to the paradisiacal islands in the city and all its surroundings."
+        },
+        {
+          "title": "We offer excellent healthy food",
+          "content": "We offer you a diet based on healthy products. Our meals are prepared with fresh, quality products to guarantee the best nutrition. In addition, we offer vegetarian and vegan options, and we have menus low in fat, sugar and sodium. Our dishes are delicious, nutritious and balanced, so you can enjoy an excellent healthy meal."
+        }
+      ]
+    }
+  }
+}

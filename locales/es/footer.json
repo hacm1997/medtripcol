@@ -1,0 +1,31 @@
+{
+  "about": {
+    "title": "Sobre nosotros",
+    "content": "Medtrip es la solución integral para alcanzar salud y bienestar para tu vida. Ofrecemos seguridad y confianza como pilares para priorizar tu salud y llevarte a vivir una experiencia llena de historia y cultura."
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "direction": "Cra. 8 #64 - 61, Bogotá",
+    "phone": "314 5208 278"
+  },
+  "schedule": {
+    "title": "Horarios de atención",
+    "content": "8:00 am a 7:00 pm"
+  },
+  "emails": {
+    "email": "booking@medtrip.com"
+  },
+    "social": {
+      "title": "Redes sociales",
+      "item": [
+        {
+          "icon": "bx bxl-facebook",
+          "link": "https://www.facebook.com/profile.php?id=100087592865661"
+        },
+        {
+          "icon": "bx bxl-instagram",
+          "link": "https://www.instagram.com/medtrip_col/"
+        }
+      ]
+    }
+}

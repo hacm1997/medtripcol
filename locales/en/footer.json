@@ -1,0 +1,31 @@
+{
+  "about": {
+    "title": "About us",
+    "content": "Medtrip is the integral solution to achieve health and wellness for your life. We offer safety and confidence as the key to prioritize your health and take you to live an experience full of history and culture."
+  },
+  "contact": {
+    "title": "Contact us",
+    "direction": "Cra. 8 #64 - 61, Bogotá",
+    "phone": "314 5208278"
+  },
+  "schedule": {
+    "title": "Opening hours",
+    "content": "8:00 a.m. a 7:00 p.m."
+  },
+  "emails": {
+    "email": "booking@medtrip.com"
+  },
+    "social": {
+      "title": "Social networks",
+      "item": [
+        {
+          "icon": "bx bxl-facebook",
+          "link": "https://www.facebook.com/profile.php?id=100087592865661"
+        },
+        {
+          "icon": "bx bxl-instagram",
+          "link": "https://www.instagram.com/medtrip_col/"
+        }
+      ]
+    }
+}

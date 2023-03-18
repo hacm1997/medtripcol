@@ -1,0 +1,630 @@
+{
+  "after": "Después",
+  "before": "Antes",
+  "rinoplastia": {
+    "banner": {
+      "image": "/images/servicios/plastica-facial/rinoplastia.png",
+      "alt": "Rinoplastia",
+      "title": "Mejora la simetría de tu cara,",
+      "titleSpan": "siéntete seguro de ti mismo.",
+      "content": "La rinoplastia es una cirugía estética para perfeccionar la forma y función de la nariz, mejorando la armonía facial y devolviendo la confianza y seguridad que tanto anhelas."
+    },
+    "before-and-after": {
+      "title": "Así lucirá tu",
+        "titleSpan": "cirugía con nosotros"
+    },
+    "step-by-step": {
+      "title": "Conoce cómo será el proceso ",
+        "titleSpan": "paso a paso",
+      "process1": {
+        "content": "A través de nuestros canales digitales te brindaremos toda la información que necesites para que tomes tu mejor decisión."
+      },
+      "process2": {
+        "content": "En la valoración médica con nuestro especialista, sabremos si eres apto(a) para la cirugía y se determinarán los exámenes que correspondan."
+      },
+      "process3": {
+        "content": "Se define cuál será el procedimiento acorde para ti y se toman datos para agendar la cirugía."
+      },
+      "process4": {
+        "content": "Cumplimos con la cita más anhelada en donde nuestro especialista hará su obra de arte."
+      },
+      "process5": {
+        "content": "Vendrán los días más felices de tu vida, viendo poco a poco un resultado que superará tus expectativas."
+      }
+    }
+  },
+
+  "cirugia-de-parpado": {
+    "banner": {
+      "image": "/images/servicios/plastica-facial/cirugia-parpados.png",
+      "alt": "Cirugía de Párpado",
+      "title": "En Medtrip te ayudamos a lograr una ",
+      "titleSpan": "apariencia más rejuvenecida en tus ojos.",
+      "content": "La cirugía de párpados es un procedimiento estético que ayuda a rejuvenecer la apariencia de los ojos al corregir el exceso de piel y grasa en los párpados."
+    },
+    "before-and-after": {
+      "title": "Así lucirá tu ",
+      "titleSpan": "cirugía con nosotros"
+    },
+    "step-by-step": {
+      "title": "Te compartimos algunos beneficios de la ",
+      "titleSpan": "cirugía de párpados",
+      "process1": {
+        "content": "Mejora la apariencia, ayuda a eliminar el aspecto cansado y envejecido que pueden tener los párpados caídos."
+      },
+      "process2": {
+        "content": "Aumenta la confianza, muchas personas pueden sentirse más seguras y satisfechas con su aspecto físico."
+      },
+      "process3": {
+        "content": "La cirugía del párpado puede ayudar a mejorar la visión al eliminar el exceso de grasa en esa zona."
+      },
+      "process4": {
+        "content": "Los resultados son duraderos y pueden mantenerse durante muchos años."
+      },
+      "process5": {
+        "content": "Es un procedimiento seguro y bien establecido que se ha utilizado durante muchos años."
+      }
+    }
+  },
+
+  "bichectomia": {
+    "banner": {
+      "image": "/images/servicios/plastica-facial/bichectomia.png",
+      "alt": "Bichectomia",
+      "title": "Resalta tus pómulos y descubre una ",
+      "titleSpan": "nueva versión de ti mismo.",
+      "content": "La bichectomía ayuda a afinar y definir los rasgos faciales, creando un aspecto más esculpido en la zona de los pómulos y las mandíbulas que te hará lucir radiante."
+    },
+    "before-and-after": {
+      "title": "Así lucirá tu",
+      "titleSpan": "cirugía con nosotros"
+    },
+    "step-by-step": {
+      "title": "Razones por las que debes realizarte ",
+      "titleSpan": "la bichectomía",
+      "process1": {
+        "content": "Mejora la definición facial y embellece tus rasgos faciales."
+      },
+      "process2": {
+        "content": "Puede ayudar a reducir el volumen en la zona de las mejillas."
+      },
+      "process3": {
+        "content": "Muchas personas experimentan una mejora en su autoestima y confianza en sí mismas."
+      },
+      "process4": {
+        "content": "Los resultados de esta cirugía  se mantienen en el tiempo."
+      },
+      "process5": {
+        "content": "Es un procedimiento quirúrgico seguro que se realiza de forma ambulatoria y con anestesia local."
+      }
+    }
+  },
+
+  "botox": {
+    "banner": {
+      "image": "/images/servicios/plastica-facial/botox.png",
+      "alt": "Botox",
+      "title": "Dile adiós a las arrugas y dale la ",
+      "titleSpan": "bienvenida a una piel más joven.",
+      "content": "El botox ayuda a reducir temporalmente la actividad muscular que causa líneas de expresión y arrugas."
+    },
+    "before-and-after": {
+      "title": "Así lucirá tu",
+      "titleSpan": "cirugía con nosotros"
+    },
+    "step-by-step": {
+      "title": "Algunos cuidados que debes tener ",
+      "titleSpan": "después de aplicarte botox",
+      "process1": {
+        "content": "Evite frotar o masajear el área tratada."
+      },
+      "process2": {
+        "content": "Evite hacer ejercicio intenso durante las primeras 24 horas."
+      },
+      "process3": {
+        "content": "No consumir alcohol ya que se pueden dilatar los vasos sanguíneos y aumentar el riesgo de hematomas."
+      },
+      "process4": {
+        "content": "Evite someterse a tratamientos faciales para no afectar el resultado del tratamiento."
+      },
+      "process5": {
+        "content": "No maquillarse durante las primeras 4 horas."
+      }
+    }
+  },
+
+  "lifting-facial": {
+    "banner": {
+      "image": "/images/servicios/plastica-facial/lifting-facial.png",
+      "alt": "Lifting Facial",
+      "title": "Para lucir un rostro ",
+      "titleSpan": "bello y radiante no hay edad.",
+      "content": "Con este procedimiento podrás mejorar la apariencia facial, reduciendo los signos del envejecimiento y logrando una apariencia más joven y rejuvenecida."
+    },
+    "before-and-after": {
+      "title": "Así lucirá tu",
+      "titleSpan": "cirugía con nosotros"
+    },
+    "step-by-step": {
+      "title": "Conoce cómo será el proceso ",
+      "titleSpan": "paso a paso",
+      "process1": {
+        "content": "A través de nuestros canales digitales te brindaremos toda la información que necesites para que tomes tu mejor decisión."
+      },
+      "process2": {
+        "content": "En la valoración médica con nuestro especialista, sabremos si eres apto(a) para la cirugía y se determinarán los exámenes que correspondan."
+      },
+      "process3": {
+        "content": "Se define cuál será el procedimiento acorde para ti y se toman datos para agendar la cirugía."
+      },
+      "process4": {
+        "content": "Cumplimos con la cita más anhelada en donde nuestro especialista hará su obra de arte."
+      },
+      "process5": {
+        "content": "Vendrán los días más felices de tu vida, viendo poco a poco un resultado que superará tus expectativas."
+      }
+    }
+  },
+
+  "liposuccion-de-papada": {
+    "banner": {
+      "image": "/images/servicios/plastica-facial/liposuccion-papada.png",
+      "alt": "Liposucción de Papada",
+      "title": "¡Es hora de sentirse bien consigo mismo desde ",
+      "titleSpan": "todos los ángulos!",
+      "content": "La liposucción de papada puede mejorar no solo tu apariencia, sino también tu autoestima y confianza en ti mismo. Siéntete orgulloso de tomar el control de tu imagen y dar el primer paso hacia una versión más segura y  feliz. "
+    },
+    "before-and-after": {
+      "title": "Así lucirá tu",
+      "titleSpan": "cirugía con nosotros"
+    },
+    "step-by-step": {
+      "title": "Conoce cómo será el proceso ",
+      "titleSpan": "paso a paso",
+      "process1": {
+        "content": "A través de nuestros canales digitales te brindaremos toda la información que necesites para que tomes tu mejor decisión."
+      },
+      "process2": {
+        "content": "En la valoración médica con nuestro especialista, sabremos si eres apto(a) para la cirugía y se determinarán los exámenes que correspondan."
+      },
+      "process3": {
+        "content": "Se define cuál será el procedimiento acorde para ti y se toman datos para agendar la cirugía."
+      },
+      "process4": {
+        "content": "Cumplimos con la cita más anhelada en donde nuestro especialista hará su obra de arte."
+      },
+      "process5": {
+        "content": "Vendrán los días más felices de tu vida, viendo poco a poco un resultado que superará tus expectativas."
+      }
+    }
+  },
+
+  "abdominoplastia": {
+    "banner": {
+      "image": "/images/servicios/plastica-corporal/marcación de abdomen.png",
+      "alt": "abdominoplastia",
+      "title": "La abdominoplastia: tu mejor aliada",
+      "titleSpan": " para un abdomen plano y firme.",
+      "content": "Es un procedimiento que se realiza para eliminar el exceso de piel y grasa en el área del abdomen. Logra tus objetivos, mejorar tu apariencia y obten excelentes resultados."
+    },
+    "before-and-after": {
+      "title": "Así lucirá tu",
+      "titleSpan": "cirugía con nosotros"
+    },
+    "step-by-step": {
+      "title": "Conoce 5 beneficios del ",
+      "titleSpan": "procedimiento quirúrgico",
+      "process1": {
+        "content": "Elimina excesos de piel y grasas en tu abdomen."
+      },
+      "process2": {
+        "content": "Fortalece los músculos abdominales."
+      },
+      "process3": {
+        "content": "Reduce el riesgo de infecciones y problemas de la piel."
+      },
+      "process4": {
+        "content": "Aumenta tu autoestima y la confianza de ser tú mismo."
+      },
+      "process5": {
+        "content": "Cuidamos de ti, te brindamos un tipo de recuperación con personal especializado."
+      }
+    }
+  },
+
+  "lipoescultura": {
+    "banner": {
+      "image": "/images/servicios/plastica-corporal/lipoescultura para mujer.png",
+      "alt": "lipoescultura",
+      "title": "¡Moldeamos tu ",
+      "titleSpan": " cuerpo y cuidamos de tu piel!",
+      "content": "En Medtrip realizamos procedimientos muy efectivos para eliminar la grasa no deseada en las áreas de tu preferencia. Pregunta por la solución a tus necesidades de pérdida de peso. "
+    },
+    "before-and-after": {
+      "title": "Así lucirá tu",
+      "titleSpan": "cirugía con nosotros"
+    },
+    "step-by-step": {
+      "title": "Medtrip, la opción ideal ",
+      "titleSpan": "para tu transformación",
+      "process1": {
+        "content": "Tenemos en cuenta tus necesidades y brindamos soluciones."
+      },
+      "process2": {
+        "content": "Logramos que cumplas tus mejores objetivos."
+      },
+      "process3": {
+        "content": "Obtén tu mejor versión, impactamos tu vida de forma segura y confiable."
+      },
+      "process4": {
+        "content": "Contamos con personal altamente calificado para el cuidado de tu cuerpo."
+      },
+      "process5": {
+        "content": "Elegimos espacios llenos de confort que harán tus procesos más agradables y tranquilos."
+      }
+    }
+  },
+
+  "lipotransferencia-glutea": {
+    "banner": {
+      "image": "/images/servicios/plastica-corporal/aumento de gluteos.png",
+      "alt": "lipotransferencia-glutea",
+      "title": "Transforma tus curvas y luce una ",
+      "titleSpan": " figura naturalmente esbelta.",
+      "content": "Con la lipotransferencia glútea extraemos la grasa de zona localizada en tu cuerpo y la trasplantamos en glúteos para aumentar su tamaño y mejorar su forma. "
+    },
+    "before-and-after": {
+      "title": "Así lucirá tu",
+      "titleSpan": "cirugía con nosotros"
+    },
+    "step-by-step": {
+      "title": "5 beneficios para realizarte una ",
+      "titleSpan": "Lipotransferencia Glútea",
+      "process1": {
+        "content": "Aumenta el tamaño de los glúteos de forma natural, utilizando tu propia grasa corporal"
+      },
+      "process2": {
+        "content": "Mejora la forma y la simetría de los glúteos, proporcionando un aspecto más equilibrado y atractivo. "
+      },
+      "process3": {
+        "content": "Elimina grasa no deseada en áreas del cuerpo."
+      },
+      "process4": {
+        "content": "Obtén resultados naturales, duraderos y permanentes. "
+      },
+      "process5": {
+        "content": "Retoma actividades normales dentro de una o dos semanas después del procedimiento. "
+      }
+    }
+  },
+
+  "mamoplastia-de-aumento": {
+    "banner": {
+      "image": "/images/servicios/plastica-corporal/aumento de busto.png",
+      "alt": "mamoplastia-de-aumento",
+      "title": "Aumenta tu confianza y ",
+      "titleSpan": " luce una figura radiante.",
+      "content": "En esta cirugía se utiliza una prótesis mamaria para aumentar el volumen de los senos y lograr una apariencia más proporcional y atractiva. "
+    },
+    "before-and-after": {
+      "title": "Así lucirá tu",
+      "titleSpan": "cirugía con nosotros"
+    },
+    "step-by-step": {
+      "title": "Conoce el paso a paso para realizarte el ",
+      "titleSpan": "procedimiento quirúrgico",
+      "process1": {
+        "content": "A través de nuestros canales digitales te brindaremos toda la información que necesites para que tomes tu mejor decisión."
+      },
+      "process2": {
+        "content": "Cumplimos con la cita más anhelada en donde nuestro especialista hará su obra de arte."
+      },
+      "process3": {
+        "content": "Se define cuál será el procedimiento acorde para ti y se toman datos para agendar la cirugía."
+      },
+      "process4": {
+        "content": "En la valoración médica con nuestro especialista, sabremos si eres apto(a) para la cirugía y se determinarán los exámenes que correspondan. "
+      },
+      "process5": {
+        "content": "Vendrán los días más felices de tu vida, viendo poco a poco un resultado que superará tus expectativas. "
+      }
+    }
+  },
+
+  "mamoplastia-de-reducción": {
+    "banner": {
+      "image": "/images/servicios/plastica-corporal/reducción de busto.png",
+      "alt": "mamoplastia-de-reducción",
+      "title": "Libérate del peso innecesario y mejora tu ",
+      "titleSpan": " calidad de vida.",
+      "content": "La mamoplastia de reducción es un procedimiento quirúrgico que tiene como objetivo disminuir el tamaño y mejorar la forma de los senos de una mujer."
+    },
+    "before-and-after": {
+      "title": "Así lucirá tu",
+      "titleSpan": "cirugía con nosotros"
+    },
+    "step-by-step": {
+      "title": "Beneficios para realizarte una ",
+      "titleSpan": "mamoplastia de reducción",
+      "process1": {
+        "content": "Reduce el tamaño de los senos, alivia la incomodidad y los problemas físicos relacionados con senos grandes, como dolor de espalda, cuello y hombros, e irritación de la piel debajo de los senos."
+      },
+      "process2": {
+        "content": "Mejora la forma y la simetría de los senos, proporcionando un aspecto más equilibrado y atractivo."
+      },
+      "process3": {
+        "content": "Mejora la calidad de vida."
+      },
+      "process4": {
+        "content": "En la valoración médica con nuestro especialista, sabremos si eres apto(a) para la cirugía y se determinarán los exámenes que correspondan."
+      },
+      "process5": {
+        "content": "Retoma actividades normales dentro de una o dos semanas después del procedimiento."
+      }
+    }
+  },
+
+  "mastopexia-con-implante": {
+    "banner": {
+      "image": "/images/servicios/plastica-corporal/mastopexia.png",
+      "alt": "mastopexia-con-implante",
+      "title": "Rejuvenece y eleva tus senos con la Mastopexia con Implante, ",
+      "titleSpan": " ¡redescubre tu juventud y confianza!",
+      "content": "La Mastopexia con implante es una cirugía de elevación de los senos, y la colocación de un implante mamario para aumentar el tamaño y mejorar la forma de los senos."
+    },
+    "before-and-after": {
+      "title": "Así lucirá tu",
+      "titleSpan": "cirugía con nosotros"
+    },
+    "step-by-step": {
+      "title": "Beneficios para realizarte una ",
+      "titleSpan": "mamoplastia de reducción",
+      "process1": {
+        "content": "Restaura la apariencia de tus senos."
+      },
+      "process2": {
+        "content": "Mejora la confianza y autoestima."
+      },
+      "process3": {
+        "content": "Mejora la postura y la forma de tus senos."
+      },
+      "process4": {
+        "content": "Logra mayor volumen y proyección en tus senos."
+      },
+      "process5": {
+        "content": "Realiza este procedimiento por: envejecimiento, embarazo, lactancia o cambios significativos de peso."
+      }
+    }
+  },
+
+  "bypass-gastrico": {
+    "banner": {
+      "image": "/images/servicios/cirugia-bariatrica/bypass-gastrico.png",
+      "alt": "Bypass Gástrico",
+      "title": "El Bypass Gástrico es una solución ",
+      "titleSpan": " efectiva para la pérdida de peso.",
+      "content": "Con esta cirugía se logra limitar la cantidad de alimentos que se pueden comer y reduce la absorción de nutrientes, lo que puede ayudar a las personas con obesidad a perder peso y mejorar su salud en general."
+    },
+    "before-and-after": {
+      "title": "Así lucirá tu",
+      "titleSpan": "cirugía con nosotros"
+    },
+    "step-by-step": {
+      "title": "Algunas características del ",
+      "titleSpan": "Bypass Gástrico que debes saber",
+      "process1": {
+        "content": "Reduce la cantidad de alimentos que se pueden consumir en cada comida."
+      },
+      "process2": {
+        "content": "Promueve la pérdida de peso que puede ser significativa y sostenida a largo plazo."
+      },
+      "process3": {
+        "content": "Requiere cambios en el estilo de vida, como adoptar una dieta saludable y hacer ejercicio regularmente."
+      },
+      "process4": {
+        "content": "Puede mejorar las afecciones de salud relacionadas con la obesidad, como la diabetes tipo 2, la hipertensión arterial y la apnea del sueño."
+      },
+      "process5": {
+        "content": "Requiere una evaluación previa para determinar si son candidatos adecuados y comprender los riesgos y beneficios de la cirugía."
+      }
+    }
+  },
+
+  "manga-gastrica": {
+    "banner": {
+      "image": "/images/servicios/cirugia-bariatrica/manga-gastrica.png",
+      "alt": "Manga Gástrica",
+      "title": "Controla tu alimentación y ",
+      "titleSpan": " luce mejor que nunca.",
+      "content": "La Manga Gástrica es una cirugía que te ayudará con la pérdida de peso, debe realizarse por un cirujano bariátrico calificado y experimentado, y debe ser considerada como un último recurso después de haber intentado otras opciones de pérdida de peso sin éxito."
+    },
+    "before-and-after": {
+      "title": "Así lucirá tu",
+      "titleSpan": "cirugía con nosotros"
+    },
+    "step-by-step": {
+      "title": "Cuidados que debes tener después de una ",
+      "titleSpan": "cirugía de Manga Gástrica",
+      "process1": {
+        "content": "Es importante seguir la dieta prescrita por el médico o nutricionista para tener una recuperación óptima. "
+      },
+      "process2": {
+        "content": "Es fundamental mantenerse hidratado bebiendo suficiente agua y otros líquidos sin azúcar."
+      },
+      "process3": {
+        "content": "Deberá asistir a las citas de seguimiento con el cirujano y el equipo de atención médica, para monitorear su progreso."
+      },
+      "process4": {
+        "content": "Evitar esfuerzos y levantamiento de objetos pesados durante varias semanas después de la cirugía."
+      },
+      "process5": {
+        "content": "Es probable que experimente dolor después de la cirugía, por lo que deberá tomar los analgésicos que le prescriba el médico."
+      }
+    }
+  },
+
+  "cirugia-de-revision": {
+    "banner": {
+      "image": "/images/servicios/cirugia-bariatrica/cirugia-revision.png",
+      "alt": "Cirugía de revisión",
+      "title": "La cirugía de revisión es una segunda oportunidad para ",
+      "titleSpan": " alcanzar tus metas de salud.",
+      "content": "Esta cirugía se realiza en personas que no han alcanzado los resultados deseados con su cirugía bariátrica inicial, o que han desarrollado complicaciones como obstrucciones, reflujo ácido o pérdida de peso insuficiente."
+    },
+    "before-and-after": {
+      "title": "Así lucirá tu",
+      "titleSpan": "cirugía con nosotros"
+    },
+    "step-by-step": {
+      "title": "Conoce el paso a paso para realizarte el ",
+      "titleSpan": " procedimiento quirúrgico",
+      "process1": {
+        "content": "A través de nuestros canales digitales te brindaremos toda la información que necesites para que tomes tu mejor decisión."
+      },
+      "process2": {
+        "content": "Cumplimos con la cita más anhelada en donde nuestro especialista hará su obra de arte."
+      },
+      "process3": {
+        "content": "Se define cuál será el procedimiento acorde para ti y se toman datos para agendar la cirugía. "
+      },
+      "process4": {
+        "content": "En la valoración médica con nuestro especialista, sabremos si eres apto(a) para la cirugía y se determinarán los exámenes que correspondan."
+      },
+      "process5": {
+        "content": "Vendrán los días más felices de tu vida, viendo poco a poco un resultado que superará tus expectativas."
+      }
+    }
+  },
+
+  "colocacion-y-retiro-de-balon-intragastrico": {
+    "banner": {
+      "image": "/images/servicios/cirugia-bariatrica/balon-intragastrico.png",
+      "alt": "Balón Intragástrico",
+      "title": "Un balón intragástrico puede ser ",
+      "titleSpan": " una herramienta temporal para lograr un cambio duradero.",
+      "content": "La colocación y el retiro de un balón intragástrico deben ser realizados por un médico especialista y experimentado en procedimientos endoscópicos y de control de peso, y deben ser considerados como parte de un enfoque integral para la pérdida de peso, que incluye cambios en el estilo de vida y hábitos alimentarios saludables."
+    },
+    "before-and-after": {
+      "title": "Así lucirá tu",
+      "titleSpan": "cirugía con nosotros"
+    },
+    "step-by-step": {
+      "title": "Conoce el paso a paso para realizarte el ",
+      "titleSpan": "procedimiento quirúrgico",
+      "process1": {
+        "content": "A través de nuestros canales digitales te brindaremos toda la información que necesites para que tomes tu mejor decisión."
+      },
+      "process2": {
+        "content": "Cumplimos con la cita más anhelada en donde nuestro especialista hará su obra de arte."
+      },
+      "process3": {
+        "content": "Se define cuál será el procedimiento acorde para ti y se toman datos para agendar la cirugía."
+      },
+      "process4": {
+        "content": "En la valoración médica con nuestro especialista, sabremos si eres apto(a) para la cirugía y se determinarán los exámenes que correspondan."
+      },
+      "process5": {
+        "content": "Vendrán los días más felices de tu vida, viendo poco a poco un resultado que superará tus expectativas."
+      }
+    }
+  },
+
+  "cirugia-metabolica": {
+    "banner": {
+      "image": "/images/servicios/cirugia-bariatrica/cirugia-metabolica.png",
+      "alt": "Cirugía Metabólica",
+      "title": "La cirugía metabólica puede ayudarte a ",
+      "titleSpan": " transformar tu salud y tu vida.",
+      "content": "La cirugía metabólica puede lograrse mediante varios procedimientos, como el bypass gástrico, la manga gástrica, el balón intragástrico y otros, su objetivo es ayudar a las personas con obesidad a perder peso y mejorar su salud."
+    },
+    "before-and-after": {
+      "title": "Así lucirá tu",
+      "titleSpan": "cirugía con nosotros"
+    },
+    "step-by-step": {
+      "title": "Algunas de las ventajas de realizarte una ",
+      "titleSpan": "cirugía metabólica",
+      "process1": {
+        "content": "Puede ayudar a perder una cantidad significativa de peso a largo plazo."
+      },
+      "process2": {
+        "content": "Puede mejorar o incluso curar problemas de salud relacionados con la obesidad, la hipertensión, la apnea del sueño y la enfermedad del hígado graso no alcohólico."
+      },
+      "process3": {
+        "content": "Mejora la calidad de vida al reducir los síntomas de la obesidad."
+      },
+      "process4": {
+        "content": "Ayuda a motivar a las personas a adoptar un estilo de vida más saludable."
+      },
+      "process5": {
+        "content": "Contamos con especialistas dispuestos a ayudarte a cumplir tus objetivos."
+      }
+    }
+  },
+
+  "diseno-de-sonrisa": {
+    "banner": {
+      "image": "/images/servicios/odontologia/diseno-sonrisa.png",
+      "alt": "Diseño Sonrisa",
+      "title": "En MEDTRIP te damos ",
+      "titleSpan": " razones para sonreir.",
+      "content": "Este tratamiento oral va más allá de un cambio estético, buscamos armonizar tu rostro, mejorar la mordida y la reconstrucción dental, con una sonrisa nueva y natural."
+    },
+    "before-and-after": {
+      "title": "Aumenta tu autoestima y confianza con ",
+      "titleSpan": "tu sonrisa que te abrirá posibilidades ilimitadas."
+    },
+    "step-by-step": {
+      "title": "Beneficios ",
+      "titleSpan": "de un diseño de sonrisa",
+      "process1": {
+        "content": "Cambia la apariencia general: El diseño de sonrisa es una forma de mejorar la apariencia facial de una persona. Puedes darle a tu sonrisa un aspecto más atractivo y natural."
+      },
+      "process2": {
+        "content": "Aumenta la confianza: Una sonrisa más armoniosa aumenta la confianza en uno mismo. Esto te puede ayudar a ser una persona más abierta y segura de tí misma."
+      },
+      "process3": {
+        "content": "Reduce el estrés: Tener una sonrisa agradable va ayudar a mejorar la salud mental al minimizar el estrés."
+      },
+      "process4": {
+        "content": "Mejora la salud oral: La salud bucal se verá mejorada con el diseño de sonrisa. Esto incluye una mejor alineación de los dientes, menor exposición de encías y una mejor higiene dental."
+      },
+      "process5": {
+        "content": "Mejora la salud general: La salud bucal y la salud general están estrechamente relacionadas. Una sonrisa más atractiva puede ayudar a mejorar la salud general."
+      }
+    }
+  },
+
+  "blanqueamiento": {
+    "banner": {
+      "image": "/images/servicios/odontologia/blanqueamiento.png",
+      "alt": "Blanqueamiento",
+      "title": "Gracias a MEDTRIP tendrás una sonrisa ",
+      "titleSpan": "limpia y reluciente.",
+      "content": "Podemos eliminar, de forma segura, las manchas y decoloración de tus dientes para mejorar su apariencia y tu confianza"
+    },
+    "before-and-after": {
+      "title": "Una dentadura brillante que ilumine tu ",
+      "titleSpan": "rostro y te de motivos para sonreír."
+    },
+    "step-by-step": {
+      "title": "Beneficios ",
+      "titleSpan": "de blanqueamiento",
+      "process1": {
+        "content": "Previene enfermedades: Tras la aplicación de nuestros protocolos de blanqueamiento se evita el desarrollo de caries y otras enfermedades bucales ya que las bacterias causantes de estas patologías no pueden adherirse fácilmente a los dientes."
+      },
+      "process2": {
+        "content": "Mejora la apariencia de los dientes: Además de eliminar las manchas, este tratamiento le va dar a tus dientes más brillo y un aspecto más saludable."
+      },
+      "process3": {
+        "content": "Aumenta tu confianza: Al tener una sonrisa más estética y saludable mejorarás la apariencia de tu rostro y como consecuencia tu autoestima se verá reforzada."
+      },
+      "process4": {
+        "content": "Tener una sonrisa agradable y rejuvenecida te va ayudar a proyectar la imagen que deseas de manera segura y confiable."
+      }
+    }
+  }
+
+}
+
+

@@ -1,0 +1,62 @@
+{
+  "generalBtn": "Schedule appointment",
+  "textSurgery": "Surgery",
+  "textMonth": "Month",
+  "textDay": "Day",
+  "textHour": "Hour",
+  "placeholderName": "Full name",
+  "placeholderCountry": "Nationality of Origin",
+  "selectNationality": ["Colombian", "Foreign"],
+  "placeholderEmail": "E-mail",
+  "placeholderPhone": "Phone/Cell",
+  "textSelectDate": "Choose your estimated travel date",
+  "cirugia-plastica-facial": {
+    "title": "Discover how we can help you take care of your body and your health. ",
+    "titleSpan": "At MedTrip we take care of everything!",
+    "content": "Get your evaluation to identify existing health problems and develop a treatment plan appropriate to the needs of your body.",
+    "select": [
+      "Rhinoplasty",
+      "Eyelid Surgery",
+      "Bichectomy",
+      "Botox",
+      "Lifting Facial",
+      "Liposuction of Double chin"
+    ]
+  },
+
+  "cirugia-plastica-corporal": {
+    "title": "Discover how we can help you take care of your body and your health. ",
+    "titleSpan": "At MedTrip we take care of everything!",
+    "content": "Obtén tu evaluación para identificar los problemas de salud existentes y desarrollar un plan de tratamiento adecuado a la necesidad de tu cuerpo.",
+    "select": [
+      "Abdominoplasty",
+      "HD Liposculpture",
+      "Buttock Lipotransfer",
+      "Augmentation Mammoplasty",
+      "Reduction Mammoplasty",
+      "Mastopexy with Implant"
+    ]
+  },
+
+  "cirugia-bariatrica": {
+    "title": "Discover how we can help you take care of your body and your health. ",
+    "titleSpan": "At MedTrip we take care of everything!",
+    "content": "Obtén tu evaluación para identificar los problemas de salud existentes y desarrollar un plan de tratamiento adecuado a la necesidad de tu cuerpo.",
+    "select": [
+      "Gastric Bypass",
+      "Gastric Sleeve",
+      "Intragastric Balloon Placement and Removal",
+      "Metabolic Surgery"
+    ]
+  },
+
+  "odontologia-estetica": {
+    "title": "Discover how we can help you take care of your body and your health. ",
+    "titleSpan": "At MedTrip we take care of everything!",
+    "content": "Obtén tu evaluación para identificar los problemas de salud existentes y desarrollar un plan de tratamiento adecuado a la necesidad de tu cuerpo.",
+    "select": [
+      "Smile Design",
+      "Whitening"
+    ]
+  }
+}

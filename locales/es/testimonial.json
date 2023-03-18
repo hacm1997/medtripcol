@@ -1,0 +1,28 @@
+{
+  "testimonial": {
+    "title": "Tus resultados lo son",
+    "titleSpan": "todo para nosotros",
+    "item": [
+      {
+        "name": "Yaisa",
+        "country": "Miami, Florida",
+        "content": "Hace 10 años me realicé el proceso de Sleeve Gástrico con otro Dr  y ahora el Dr de Medtrip me realizó un Bypass para volver a bajar de peso. Me siento muy bien, estoy contenta en muchos sentidos y estoy esperando resultados."
+      },
+      {
+        "name": "Paola",
+        "country": "Miami, Florida",
+        "content": "Me hice el Bypass Gástrico. Estoy operada con el Dr de Medtrip y me siento excelente, no he sufrido náuseas ni vómitos. Gracias a Dios todo me salió bien, súper recomendado y estoy feliz de la vida con mis cambios."
+      },
+      {
+        "name": "Ricardo Almeida Torres",
+        "country": "Francia",
+        "content": "Vengo de Francia a operarme el problema que yo tengo que es sobre peso, tengo obesidad mórbida y he tomado la decisión de hacerme una cirugía bariátrica. Llegué a Bogotá a la clínica de los Nogales operado por el Dr, Daniel Gómez. Todo salió muy bien, las heridas están muy limpias y no hubo ninguna complicación. Gracias al Dr y a su equipo por su profesionalismo."
+      },
+      {
+        "name": "Karen Caraballo",
+        "country": "Puerto Rico",
+        "content": "El Dr Gómez y su equipo de médico realizaron una cirugía de Manga Gástrica, me siento excelente. Definitivamente recomiendo al Dr Gómez y a su equipo médico porque en todo momento durante el proceso antes y después de la cirugía me hicieron sentir confiada y segura, definitivamente cuentan con la experiencia necesaria y el conocimiento."
+      }
+    ]
+  }
+}

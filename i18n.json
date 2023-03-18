@@ -1,0 +1,8 @@
+{
+  "defaultLocale": "es",
+  "locales": ["es", "en"],
+  "pages": {
+    "*": ["footer", "nav", "services", "subServices","testimonial","form", "turismo"],
+    "/": ["home"]
+  }
+}

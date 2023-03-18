@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "title": "Servicios",
+    "services": [
+      {
+        "title": "Cirugía Plástica Facial",
+        "url": "/cirugia-plastica-facial"
+      },
+      {
+        "title": "Odontología Estética",
+        "url": "/odontologia-estetica"
+      },
+      {
+        "title": "Cirugía Plástica Corporal",
+        "url": "/cirugia-plastica-corporal"
+      },
+
+      {
+        "title": "Cirugía Bariátrica",
+        "url": "/cirugia-bariatrica"
+      }
+
+    ],
+    "item": [
+      {
+        "name": "Turismo",
+        "url": "/turismo",
+        "active": false
+      },
+      {
+        "name": "Blog",
+        "url": "/blog",
+        "active": false
+      }
+    ]
+  },
+  "button": {
+    "name": "Agendar cita",
+    "url": "#"
+  }
+}

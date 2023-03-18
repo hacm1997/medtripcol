@@ -1,0 +1,43 @@
+{
+  "turismo": {
+    "header": {
+      "title": "Conoce Cartagena, la Heroica."
+    },
+    "destino1": {
+      "title": "El destino turistico #1 ",
+      "titleSpan": "de Colombia",
+      "content": "El mejor destino turístico de Colombia, por sus playas de arena blanca, calles coloniales y una amplia oferta de experiencias que te harán sentir en un paraíso a orillas del Caribe."
+    },
+    "destino2": {
+      "title": "Cartagena, cultura e historia pura, una receta que cura y renueva ",
+      "titleSpan": "¿te animas a ponerlo a prueba?",
+      "content": "Ven y disfruta la magia de La Fantástica, vive los privilegios de una ciudad moderna y el misticismode la época colonial."
+    },
+    "memories": {
+      "title": "Cada instante aquí se convierte en ",
+      "titleSpan": "memorias de por vida.",
+      "items": [
+        {
+          "title": "Hospedaje",
+          "logo": "/images/recuerdos/hospedaje.png",
+          "alt": "Hospedaje"
+        },
+        {
+          "title": "Alimentación",
+          "logo": "/images/recuerdos/gastronomia.png",
+          "alt": "Alimentación"
+        },
+        {
+          "title": "Paquetes turísticos",
+          "logo": "/images/recuerdos/parques.png",
+          "alt": "Paquetes turísticos"
+        },
+        {
+          "title": "Transporte",
+          "logo": "/images/recuerdos/transporte.png",
+          "alt": "Transporte"
+        }
+      ]
+    }
+  }
+}

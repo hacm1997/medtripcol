@@ -1,0 +1,62 @@
+{
+  "generalBtn": "Agendar cita",
+  "textSurgery": "Cirugía",
+  "textMonth": "Mes",
+  "textDay": "Día",
+  "textHour": "Hora",
+  "placeholderName": "Nombre completo",
+  "placeholderCountry": "Nacionalidad de Origen",
+  "selectNationality": ["Colombiana", "Extranjera"],
+  "placeholderEmail": "Correo electrónico",
+  "placeholderPhone": "Tel/Cel",
+  "textSelectDate": "Elige tu fecha estimada de viaje",
+  "cirugia-plastica-facial": {
+    "title": "Descubre cómo podemos ayudarte a cuidar de tu cuerpo y tu salud. ",
+    "titleSpan": "¡En MedTrip nos encargamos de todo!",
+    "content": "Obtén tu evaluación para identificar los problemas de salud existentes y desarrollar un plan de tratamiento adecuado a la necesidad de tu cuerpo.",
+    "select": [
+      "Rinoplastia ",
+      "Cirugía de Párpado",
+      "Bichectomia ",
+      "Botox",
+      "Lifting Facial",
+      "Liposucción de Papada"
+    ]
+  },
+
+  "cirugia-plastica-corporal": {
+    "title": "Descubre cómo podemos ayudarte a cuidar de tu cuerpo y tu salud. ",
+    "titleSpan": "¡En MedTrip nos encargamos de todo!",
+    "content": "Obtén tu evaluación para identificar los problemas de salud existentes y desarrollar un plan de tratamiento adecuado a la necesidad de tu cuerpo.",
+    "select": [
+      "Abdominoplastia",
+      "Lipoescultura HD",
+      "Lipotransferencia Glútea",
+      "Mamoplastia de Aumento",
+      "Mamoplastia de Reducción",
+      "Mastopexia con Implante"
+    ]
+  },
+
+  "cirugia-bariatrica": {
+    "title": "Descubre cómo podemos ayudarte a cuidar de tu cuerpo y tu salud. ",
+    "titleSpan": "¡En MedTrip nos encargamos de todo!",
+    "content": "Obtén tu evaluación para identificar los problemas de salud existentes y desarrollar un plan de tratamiento adecuado a la necesidad de tu cuerpo.",
+    "select": [
+      "Bypass Gástrico",
+      "Manga Gástrica",
+      "Colocación y Retiro de Balón Intragástrico",
+      "Cirugía Metabólica"
+    ]
+  },
+
+  "odontologia-estetica": {
+    "title": "Descubre cómo podemos ayudarte a cuidar de tu cuerpo y tu salud. ",
+    "titleSpan": "¡En MedTrip nos encargamos de todo!",
+    "content": "Obtén tu evaluación para identificar los problemas de salud existentes y desarrollar un plan de tratamiento adecuado a la necesidad de tu cuerpo.",
+    "select": [
+      "Diseño de Sonrisa ",
+      "Blanqueamiento"
+    ]
+  }
+}

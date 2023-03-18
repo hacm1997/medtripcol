@@ -1,0 +1,43 @@
+{
+  "turismo": {
+    "header": {
+      "title": "Get to know Cartagena, La Heroica."
+    },
+    "destino1": {
+      "title": "The #1 tourist destination ",
+      "titleSpan": "in Colombia",
+      "content": "The best tourist destination in Colombia, for its white sand beaches, colonial streets and a wide range of experiences that will make you feel in a paradise on the shores of the Caribbean."
+    },
+    "destino2": {
+      "title": "Cartagena, culture and pure history, a recipe that heals and renews, ",
+      "titleSpan": "do you dare to try it?",
+      "content": "Come and enjoy the magic of La Fantástica, experience the privileges of a modern city and the mysticism of the colonial era."
+    },
+    "memories": {
+      "title": "Every moment here becomes a ",
+      "titleSpan": "lifetime of memories.",
+      "items": [
+        {
+          "title": "Lodging",
+          "logo": "/images/recuerdos/hospedaje.png",
+          "alt": "Lodging"
+        },
+        {
+          "title": "Feeding",
+          "logo": "/images/recuerdos/gastronomia.png",
+          "alt": "Feeding"
+        },
+        {
+          "title": "Tourist packages",
+          "logo": "/images/recuerdos/parques.png",
+          "alt": "Tourist packages"
+        },
+        {
+          "title": "Transport",
+          "logo": "/images/recuerdos/transporte.png",
+          "alt": "Transport"
+        }
+      ]
+    }
+  }
+}
