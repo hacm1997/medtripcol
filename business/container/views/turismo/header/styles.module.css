@@ -1,0 +1,69 @@
+.section {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-image: url("/images/turismo/header-turismo.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section:before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 300px;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #FFFFFF 100%);
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+
+.content h1 {
+    font-size: 40px;
+    font-weight: 700;
+    color: #151B2B;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.content img{
+    cursor: pointer;
+}
+
+
+
+.imgPlay {
+    width: 80px;
+    animation-name: pulse;
+    animation-duration: 1.5s;
+    animation-timing-function: ease-out;
+    animation-iteration-count: infinite;
+    transition: 1s;
+
+}
+
+.imgPlay:hover {
+    transform: translateY(-5px);
+}
+
+@keyframes pulse {
+    0% {
+        box-shadow: 0 0 0 0 rgba(253, 253, 253, 0.92);
+        border-radius: 50%;
+    }
+    80% {
+        box-shadow: 0 0 0 14px rgba(255, 255, 255, 0.18);
+        border-radius: 100%;
+
+    }
+}

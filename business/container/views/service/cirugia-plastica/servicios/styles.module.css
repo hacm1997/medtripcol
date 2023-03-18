@@ -1,0 +1,50 @@
+.section{
+    position: relative;
+    width: 100%;
+    padding: 40px 0;
+    margin-bottom: 60px;
+}
+
+.general{
+    display: flex;
+    flex-direction: column;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.title{
+    width: 100%;
+    display: flex;
+    margin-bottom: 40px;
+
+}
+
+.title h2{
+    font-size: 35px;
+    font-weight: 700;
+    color: #58BDC9;
+    margin-bottom: 40px;
+    margin-left: 20px;
+}
+
+.card_general{
+    max-width: 1200px;
+    width: 100%;
+
+}
+
+@media (max-width: 1188px) {
+    .card_general{
+        grid-template-columns: 260px 260px;
+    }
+    .title{
+        justify-content: center;
+    }
+}
+
+@media (max-width: 600px) {
+    .card_general{
+        grid-template-columns: 260px;
+    }
+}

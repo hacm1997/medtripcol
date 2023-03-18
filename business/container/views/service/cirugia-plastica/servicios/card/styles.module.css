@@ -1,0 +1,112 @@
+
+.card {
+    position: relative;
+    border-radius: 30px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+.card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.card_segund {
+    position: relative;
+    border-radius: 30px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.multimedia {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.card:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: -webkit-linear-gradient(top, rgba(255, 255, 255, 1) 3%, rgba(247, 247, 247, 0) 80%, rgba(246, 246, 246, 0) 90%, rgb(246 246 246 / 0%) 100%);
+}
+
+.card_segund:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #58BDC9;
+}
+
+.card .title {
+    position: absolute;
+    top: 22px;
+    left: 22px;
+    width: 154px;
+}
+
+.card_segund .title {
+    position: relative;
+    width: 154px;
+}
+
+.card .title h3 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #151B2B;
+}
+
+.card_segund .title h3 {
+    text-align: center;
+    color: #ffffff;
+}
+
+.card_segund .button{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 154px;
+    bottom: 20px;
+    border-radius: 20px;
+    background-color: #ffffff;
+    color: #58BDC9;
+    font-weight: bold;
+    height: 35px;
+    border: solid 2px transparent;
+    transition: 1s;
+    cursor: pointer;
+}
+.card_segund .button:hover{
+    border: solid 2px #ffffff;
+    color: #ffffff;
+    background-color: #58BDC9;
+}
+
+.card .button:hover {
+    background-color: #ffffff;
+    color: #58BDC9;
+    border: solid 2px #58BDC9;
+}
+
+.card .button{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 154px;
+    bottom: 20px;
+    border-radius: 20px;
+    background-color: #58BDC9;
+    color: #ffffff;
+    font-weight: bold;
+    height: 35px;
+    border: solid 2px transparent;
+    transition: 1s;
+    cursor: pointer;
+}

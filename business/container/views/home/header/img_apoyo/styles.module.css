@@ -1,0 +1,22 @@
+.img_apoyo img{
+    max-width: 100%;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+
+.movil{
+    display: none;
+}
+
+@media (max-width: 1000px) {
+    .escritorio{
+        display: none;
+    }
+
+    .movil{
+        display: block;
+    }
+}

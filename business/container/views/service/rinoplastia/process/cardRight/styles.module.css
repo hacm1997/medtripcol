@@ -1,0 +1,57 @@
+.card {
+    display: flex;
+    align-items: flex-end;
+    position: relative;
+
+}
+
+.content:nth-child(2n) {
+    position: relative;
+    width: 300px;
+    height: 220px;
+    background-color: #151B2B;
+    padding: 40px;
+    border-radius: 0 30px 30px 0;
+    box-shadow: 8px 2px 18px 3px rgb(0 0 0 / 6%);
+    cursor: grabbing;
+    margin-left: -15px;
+    z-index: 1;
+    margin-bottom: 4px;
+}
+
+.content h3 {
+    color: #FFFFFF;
+    font-size: 17px;
+    margin-bottom: 10px;
+}
+
+.content p {
+    color: #FFFFFF;
+    font-size: 17px;
+}
+
+
+.multimedia {
+    border-radius: 30px;
+    overflow: hidden;
+    z-index: 2;
+}
+
+.linea:before {
+    content: '';
+    position: absolute;
+    width: 465px;
+    height: 189px;
+    background-image: url("/images/proceso/apoyograficoRight.png");
+    background-repeat: no-repeat;
+    left: -720px;
+    top: 50%;
+}
+
+.card:nth-child(2n) {
+    transform: translateY(340px);
+}
+
+.card:nth-child(4n) {
+    transform: translateY(680px);
+}

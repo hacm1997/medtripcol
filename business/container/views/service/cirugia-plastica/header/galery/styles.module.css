@@ -1,0 +1,41 @@
+.galery img {
+    max-width: 100%;
+    height: auto;
+}
+
+.galery {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    position: relative;
+}
+
+.item:nth-child(1n) {
+    position: relative;
+    top: -40px;
+
+}
+
+.item:nth-child(2n) {
+    position: relative;
+    top: 0px;
+}
+
+.content img{
+    height: 100%;
+    margin-top: 40px;
+}
+
+@media (max-width: 991px) {
+    .galery {
+        grid-template-columns: repeat(4, 1fr);
+        gap: 10px;
+    }
+}
+
+@media (max-width: 600px) {
+    .galery {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+    }
+}

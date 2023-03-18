@@ -1,0 +1,48 @@
+.section {
+    width: 100%;
+    height: 100%;
+    padding: 60px 0;
+}
+
+.caroucel {
+    max-width: 50%;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.general {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 60px;
+}
+
+.card_general {
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    max-width: 1200px;
+    width: 100%;
+    padding: 60px 0;
+    margin: 0 auto;
+    box-shadow: 0 0 68px 4px rgba(0,0,0,0.1);
+    border-radius: 25px;
+    margin-top: 60px;
+    background-color: #FFFFFF;
+
+}
+
+@media (max-width: 992px) {
+    .general{
+        flex-direction: column-reverse;
+        gap: 0;
+        padding: 0 40px;
+    }
+    .caroucel{
+        max-width: 100%;
+    }
+    .section{
+        padding: 0;
+    }
+}

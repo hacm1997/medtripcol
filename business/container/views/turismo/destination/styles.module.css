@@ -1,0 +1,10 @@
+.card_destination{
+    max-width: 1200px;
+    width: 100%;
+    display: grid;
+    align-items: center;
+    grid-template-columns: repeat(2, 570px);
+    gap: 40px;
+    margin: 0 auto;
+    padding: 40px 0;
+}

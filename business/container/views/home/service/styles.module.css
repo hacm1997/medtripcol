@@ -1,0 +1,64 @@
+.section{
+    position: relative;
+    width: 100%;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.section:before{
+    content: "";
+    position: absolute;
+    top: 0;
+    background-color: #F7F7F7;
+    width: 100%;
+    height: 55%;
+    z-index: -1;
+}
+.general{
+    max-width: 1200px;
+    width: 100%;
+}
+
+.general .title h2{
+    font-size: 35px;
+    font-weight: 700;
+    color: #58BDC9;
+    margin-bottom: 40px;
+}
+
+.card_servicio{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    gap: 40px;
+    margin-bottom: 60px;
+}
+
+@media (max-width: 1000px){
+    .card_servicio{
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    .section:before{
+        content: "";
+        position: absolute;
+        top: 0;
+        background-color: #F7F7F7;
+        width: 100%;
+        height: 70%;
+        z-index: -1;
+    }
+}
+
+@media (max-width: 767px) {
+    .card_servicio{
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (max-width: 500px) {
+    .card_servicio{
+        grid-template-columns: 1fr;
+    }
+}

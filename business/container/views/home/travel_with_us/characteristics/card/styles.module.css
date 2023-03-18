@@ -1,0 +1,25 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.hr {
+    border-left: solid 3px rgba(88, 189, 201, 0.45);
+
+}
+
+@media (max-width: 1000px) {
+    .hr{
+        border: none;
+    }
+
+    .card{
+        padding: 40px;
+        box-shadow: 0 0 68px 4px rgba(0,0,0,0.1);
+        border-radius: 30px;
+        gap: 20px;
+    }
+}
+

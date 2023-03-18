@@ -1,0 +1,31 @@
+.section{
+    background-color: #F7F7F7;
+    padding: 40px 0;
+}
+
+.title{
+    text-align: center;
+    padding: 40px 0;
+    max-width: 450px;
+    margin: 0 auto;
+}
+
+.title h2{
+    font-size: 35px;
+    font-weight: 700;
+    color: #000000;
+}
+
+.title h2 span{
+    color: #58BDC9;
+}
+
+.mySwiper{
+    padding: 40px 0 !important;
+}
+
+@media (max-width: 1300px) {
+    .section{
+        padding: 40px 20px;
+    }
+}

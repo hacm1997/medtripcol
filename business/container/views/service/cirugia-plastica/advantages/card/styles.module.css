@@ -1,0 +1,29 @@
+.card {
+    min-height: 678px;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    overflow: hidden;
+}
+.multimedia img{
+    border-radius: 10px;
+    width: 100%;
+    height: 230px;
+    object-fit: cover;
+}
+.content {
+    padding: 20px;
+}
+
+.content h3 {
+    font-size: 17px;
+    font-weight: 600;
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+.content h3 span {
+
+    color: #58BDC9;
+
+}
+
