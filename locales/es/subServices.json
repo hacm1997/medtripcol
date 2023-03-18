@@ -1,6 +1,10 @@
 {
   "after": "Después",
+  "afterImageDefault": "/images/provisional-antes-y-despues.jpg",
+  "alt": "defautl image",
   "before": "Antes",
+  "beforeImageDefault": "/images/provisional-antes-y-despues.jpg",
+
   "rinoplastia": {
     "banner": {
       "image": "/images/servicios/plastica-facial/rinoplastia.png",

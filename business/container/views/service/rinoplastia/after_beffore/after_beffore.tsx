@@ -17,11 +17,11 @@ export default function After_beffore(props: any) {
               <div className={styles.general_before}>
                   <div className={styles.multimedia}>
                       <div className={styles.after}>
-                          <img src="/images/after-beffore/after.png" alt=""/>
+                          <img src={t('beforeImageDefault')} alt={t('alt')}/>
                           <p>{t('before')}</p>
                       </div>
                       <div className={styles.beffore}>
-                          <img src="/images/after-beffore/after.png" alt=""/>
+                          <img src={t('afterImageDefault')} alt={t('alt')}/>
                           <p>{t('after')}</p>
                       </div>
                   </div>
